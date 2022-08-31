@@ -68,7 +68,7 @@ def run_bot(r):
 		for comment in user.comments.new(limit=10):
 			checkComment(comment)
 
-	for comment in r.subreddit('whatsthissnake+herpetology+snakes+reptiles+sneks+wvzphotos').comments(limit=10): ###'whatsthissnake+herpetology+snakes'
+	for comment in r.subreddit('speciesbot_testing').comments(limit=10): ###'whatsthissnake+herpetology+snakes'
 		checkComment(comment)
 
 	for submission in r.subreddit('whatsthissnake').new(limit=10): ##change to test 'whatsthissnake'
