@@ -15,7 +15,7 @@ with open("reliable.txt", "r") as f:
 
 subreddits = []
 with open("subreddits.txt", "r") as f:
-    subreddits = f.read().splitlines()
+    subreddits = "+".join(f.read().splitlines())
 
 with open("signature.md", "r") as f:
     sig = f.read()
