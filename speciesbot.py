@@ -9,18 +9,15 @@ startTime = datetime.utcnow()
 
 list_of_names = config.names
 subreddits = "+".join(config.subreddits)
-sig = "*I am a bot created for /r/subreddithere to help with animal identification and natural history education."
+sig = "*I am a bot created to help with animal identification and natural history education."
 
 commands = [
 	{'command': "commandword", 'text': "This will be the reply when !commandword is typed"},
 	{'command': "commandword2", 'text': "Another example, with !commandword2"}
 ]
 
-specieslist = []
 with open('species/species.txt', 'r') as filehandle:
-	for line in filehandle:
-		specieslist.append(line.strip())
-
+    specieslist = filehandle.readlines()
 
 def bot_login():
 	print("Logging in...")
@@ -28,7 +25,7 @@ def bot_login():
 	                password=config.password,
 	                client_id=config.client_id,
 	                client_secret=config.client_secret,
-	                user_agent="phylohelper v0.1")
+	                user_agent="speciesbot v0.1")
 	print("Logged in!")
 
 	return r
