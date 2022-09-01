@@ -113,15 +113,15 @@ def run_bot(r):
 
 	# 	submission.save()
 		
-	for submission in r.subreddit("Herpetology").new(limit=10): ##change to test "whatsthissnake"
-		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
-			break
+	# for submission in r.subreddit("Herpetology").new(limit=10): ##change to test "whatsthissnake"
+	# 	if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
+	# 		break
 
-		if submission.link_flair_text == "Herpetoculture":
-			submission.reply("Herpetology is the study of reptiles and amphibians. This post has been marked by the original poster as herpetoculture, which is the keeping of reptiles and amphibians in captivity. Herpetoculture posts are not suitable for /r/Herpetology and your post will be removed shortly. There are many suitable locations to post a pet or ask for pet care help, including /r/Herpetoculture and /r/Reptiles" + "\n\n" + "If you applied this flair in error, for example to a photo of an animal in the wild, please clear it." + "\n\n" + sig)
-			print("Replied to Herpetoculture flair - " + submission.id)
+	# 	if submission.link_flair_text == "Herpetoculture":
+	# 		submission.reply("Herpetology is the study of reptiles and amphibians. This post has been marked by the original poster as herpetoculture, which is the keeping of reptiles and amphibians in captivity. Herpetoculture posts are not suitable for /r/Herpetology and your post will be removed shortly. There are many suitable locations to post a pet or ask for pet care help, including /r/Herpetoculture and /r/Reptiles" + "\n\n" + "If you applied this flair in error, for example to a photo of an animal in the wild, please clear it." + "\n\n" + sig)
+	# 		print("Replied to Herpetoculture flair - " + submission.id)
 
-		submission.save()
+	# 	submission.save()
 
 
 r = bot_login()
