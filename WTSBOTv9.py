@@ -11,6 +11,7 @@ from datetime import datetime
 startTime = datetime.utcnow()
 
 list_of_names = ["user1", "user2", "user3"]
+subreddits = ["speciesbot_testing"]
 sig = "*I am a bot created for /r/subreddithere to help with animal identification and natural history education."
 
 commands = [
@@ -19,7 +20,7 @@ commands = [
 ]
 
 specieslist = []
-with open('species.txt', 'r') as filehandle:
+with open('species/species.txt', 'r') as filehandle:
 	for line in filehandle:
 		specieslist.append(line.strip())
 
@@ -68,10 +69,10 @@ def run_bot(r):
 		for comment in user.comments.new(limit=10):
 			checkComment(comment)
 
-	for comment in r.subreddit('speciesbot_testing').comments(limit=10): #Check comments in patrolled subreddits
+	for comment in r.subreddit("+".join(subreddits)).comments(limit=10): #Check comments in patrolled subreddits
 		checkComment(comment)
 
-	for submission in r.subreddit('speciesbot_testing').new(limit=10): #Check posts in patrolled subreddits
+	for submission in r.subreddit("+".join(subreddits)).new(limit=10): #Check posts in patrolled subreddits
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
 			break
 
@@ -90,7 +91,7 @@ def run_bot(r):
 
 		submission.save()
 		
-	for submission in r.subreddit('speciesbot_testing').new(limit=10): ##change to test 'whatsthissnake'
+	for submission in r.subreddit("+".join(subreddits)).new(limit=10): #Check for trap flairs
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
 			break
 
