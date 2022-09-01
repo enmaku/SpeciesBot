@@ -56,7 +56,7 @@ def checkComment(comment):
 				print("Replied to comment " + comment.id)
 
 	for command in commands:
-		if "!" + command["command"] in comment.body:
+		if "!" + command in comment.body:
 			with open("commands/" + command + ".md", "r") as f:
 				comment_reply = f.read()
 				bldr.append(comment_reply)
