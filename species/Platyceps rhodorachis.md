@@ -1,0 +1,9 @@
+Common Cliff Racers *Platyceps rhodorachis* are medium sized (100-110cm, up to 139cm), harmless colubrine snakes that range from the Horn of Africa north and east through the Arabian Peninsula, north into Azerbaijan, through Iran north into southwestern and south-central Kazakhstan, east into northwestern India and extreme western Tibet, from sea level to 3000m.  They occupy mostly dry, rocky areas, including cliffs, hillsides, wadis, steppe, and scrubland.  They can also be common near areas of human habitation, where they inhabit unoccupied gardens, farmland, and the periphery of construction zones, and sometimes enter buildings in search of prey. 
+
+*P. rhodorachis* likely represents a species complex, and some populations might represent distinct species.  They are largely diurnal, but will switch to crepuscular or nocturnal activity during the hottest months.  They are active, swift-moving, and vision oriented hunters whose main prey is lizards and small mammals, but snakes, small birds, bird eggs, and insects are also sometimes taken.
+
+Common Cliff Racers have smooth scales arranged in 19 rows at midbody.  The head is moderate in size and elongate with large eyes.  There are usually 9 supralabials (occasionally 10), usually with the 5th and 6th in contact with the eye, along with a loreal scale, one large preocular, a small presubocular, and 2 (occasionally 3) postoculars.  The anal scale is usually divided.
+
+[Range Map](https://www.iucnredlist.org/species/164605/1060890) | [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Platyceps_rhodorachis_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Platyceps&species=rhodorachis)
+
+This short account was written by /u/fairlyorange

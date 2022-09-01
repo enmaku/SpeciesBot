@@ -1,0 +1,9 @@
+Horned Adders *Bitis caudalis* are small (25-35cm, up to 50cm) true vipers that range from southwestern Angola east into southern Zimbabwe, south into southwestern South Africa, from near sea level up to 1,665m.  They primarily inhabit hot and dry areas with sandy soils, including desert, semi-desert scrub, and arid grassland.  Primarily nocturnal, they spend most of the day hidden in bushes, under rocks, or buried under sand.  Their main prey is lizards, but rodents, small birds, amphibians, and snakes are also consumed.
+
+Though they generally aren't considered deadly, *B. caudalis* are nonetheless dangerously venomous and should only be observed from a distance.  When frightened, individuals might hiss loudly, writhe from side to side, and/or vigorously strike toward the perceived aggressor.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Horned Adders are stout in build, with proportionally large and distinct heads.  The dorsal scales are strongly keeled and arranged in 25-31 rows at midbody.  The head is covered by a large number of small, mostly keeled scales, with a prominent, horn-like structure above each of the somewhat dorsally positioned eyes.  There are usually 10-14 supralabials, which are separated from the eye by 2-5 rows of smaller scales.  The anal scale is single, but the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/22475165/110344127)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Bitis&species=caudalis)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/horned-adder/)
+
+This short account was written by /u/fairlyorange

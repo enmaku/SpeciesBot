@@ -1,0 +1,9 @@
+Ladder Snakes *Zamenis scalaris* are medium-large (100cm, up to 165cm), harmless colubrine snakes that range from the Mediterranean coast of France southwest into Portugal and Spain, from sea level to 2,246m.  Favored habitat includes Mediterranean scrub, open woodland, field edges, and dune systems.  They can also be common near areas of human habitation, where they utilize embankments, gardens, agricultural areas, stone walls, and old ruins. They are mainly diurnal in habit, but might become crepuscular or nocturnal during the hotter months.  Prey is mainly rodents, but other small mammals, small birds, lizards, and insects are sometimes taken.
+
+Moderately robust in build, *Z. scalaris* have smooth dorsal scales which are usually arranged in 27 (25-29) rows at midbody.  The head is moderate in size, not very distinct at the neck, and with a pointed snout.  The rostral scale is conspicuously enlarged.  There are 7-9 supralabials with the 4th and 5th in contact with the eye, one preocular, and two postoculars.  The anal scale is divided. 
+
+A related species, the Aesculapian Snake *Z. longissimus* overlaps in range in northern Spain and Mediterranean France.  Where they overlap, *Z. longissimus* can be differentiated by having a narrower and longer head, a less robust build, only 23 scale rows at midbody, lacking an enlarged rostral scale, and by lacking or only having weakly exhibited dark, longitudinal dorsal stripes.
+
+[Range Map](https://www.iucnredlist.org/species/61565/12516902)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Zamenis&species=scalaris)
+
+This short account was written by /u/fairlyorange

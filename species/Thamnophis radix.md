@@ -1,0 +1,11 @@
+Plains Gartersnakes *Thamnophis radix* are medium sized (48-71cm, record 110cm) New World natricine snakes that range across much of the Great Plains and parts of the American Midwest with a disjunct population in Ohio.  Scales are strongly keeled, and the anal plate is undivided.
+ 
+*T. radix* commonly utilizes grasslands not far from a source of water, but is also found along riparian corridors, wetlands (swamps, marshes, etc.), and suburban to urban parks, gardens, backyards, and vacant lots.  Cosmopolitan predators, they prey largely upon amphibians and earthworms, but will also take fish, leeches, slugs, insects, lizards, small mammals, and small birds.
+ 
+When cornered or frightened, the Plains Gartersnake, like many garter and water snakes, might flatten the head and body to make itself appear larger, bite or pretend to bite, and release a foul smelling musk from the vent.  Mild toxins in the saliva are effective in subduing prey, but bites are considered harmless to humans.
+ 
+Throughout its range, it is most likely to be confused with the common garter snake *T. sirtalis*, and in the western part of its range, the Western terrestrial garter snake (*T. elegans*).  It can be differentiated from these, and most other sympatric garter snakes, by the positioning of the lateral stripes on scale rows 3 & 4 (vs. 2 & 3 for *T. sirtalis*, *T. elegans*; 2, 3, & 4 for *T. butleri*).  Ribbon snakes (*T. proximus*, *T. sauritus*) are much thinner in shape, usually have unmarked or rarely, less prominent and more erratically marked labials, and their tails are greater than 25% of their total length.  Additional characteristics that can aid in identification are the well defined, bright yellow/orange dorsal stripe anteriorly, prominent dark bars on the labial scales, and a row of dark bars between the lateral stripes and the venter.
+ 
+[Range map](https://imgur.com/pJF2I6P) [Ohio Distribution](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1387&context=parasitologyfacpubs)
+ 
+*This short account was prepared by /u/fairlyorange and edited by /u/Phylogenizer*.

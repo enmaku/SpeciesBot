@@ -1,0 +1,11 @@
+Rhinoceros Vipers, or African Nose-Horned Vipers, *Bitis nasicornis* are medium-large (80-110cm, up to 140cm) true vipers that range from southeastern Sierra Leone east to southern South Sudan, south into northeastern Tanzania and northwestern Angola, from near sea level up to 1,500m.  It is principally a snake of moist, wooded areas, including riparian woodland, rainforest, and swampland, but also inhabits forest-savanna mosaic.
+
+*Bitis nasicornis* is a dangerously venomous species and should only be observed from a safe distance.  They are shy and unaggressive, typically relying on their camouflage to avoid predators.  When frightened, they often hiss loudly to warn off the perceived aggressor.  Bites are rare, but should be treated as a serious medical emergency.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Primarily nocturnal, *B. nasicornis* are sluggish, ambush predators, but they also actively forage for prey.  Their main prey is rodents and shrews, but amphibians are also consumed.  They are primarily ground-dwellers, but they are strong swimmers and some individuals will climb into bushes and low trees.
+
+Rhinoceros Vipers are very heavy-bodied snakes, with large and distinct heads and somewhat dorsally positioned eyes.  The scientific name and both common names derive from the prominent, horn-like structures that adorn the snout.  The dorsal scales are strongly keeled and arranged in 31-41 rows at midbody.  The head is covered by a large number of small, mostly keeled scales.  There are usually 15-17 supralabials, which are separated from the eye by 4-5 rows of smaller scales.  The anal scale is single, but the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13300910/13300919)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Bitis&species=nasicornis)
+
+This short account was written by /u/fairlyorange

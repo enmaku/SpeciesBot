@@ -1,0 +1,11 @@
+Rinkhals *Hemachatus haemachatus* are medium-large (80-110cm, up to 150cm) elapids native to eastern and southern South Africa, western Eswatini, and Lesotho, with an isolated population in eastern Zimbabwe, from near sea level up to 2,500m.  They mainly inhabit grassland, mesic savanna, mesic forest, and scrub.  They can be common around areas of human habitation, even into periurban and sometimes urban zones.  Primarily nocturnal, but occasionally active during the day.  Their main prey is toads, but other frogs, rodents, lizards, snakes, and small birds are also taken.
+
+Dangerously venomous, *H. haemachatus* should only be observed from a safe distance.  When frightened, they often raise the forebody off the ground and spread the neck into a broad hood.  They are also capable of "spitting" their venom, and can aim accurately up to 3m away.  If it gets in the eyes, care must be taken to gently flush them out with water or other inert liquid as soon as possible to prevent permanent damage, and medical care should be sought.  They are capable of biting and/or ejecting venom without first spreading a hood.  They also often play dead, but are fully capable of biting or ejecting venom if approached or handled in this state.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+
+Rinkhals are moderately robust in build.  The head is short but chunky, with small or moderately sized eyes, and a pointed snout with enlarged rostral scale.  The dorsal scales are strongly keeled and arranged in 17-19 rows at midbody.  There are usually 7 supralabials with the 3rd and 4th in contact with the eye, 1 (1-2) preocular, and 3 postoculars.  The anal scale is single and the subcaudals are divided.
+
+Their close relatives, the true cobras *Naja* spp., can be differentiated by having smooth dorsal scales.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Elapidae_1/Hemachatus_haemachates_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Hemachatus&species=haemachatus)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/rinkhals/)
+
+This short account was written by /u/fairlyorange

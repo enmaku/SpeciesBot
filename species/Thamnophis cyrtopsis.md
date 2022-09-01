@@ -1,0 +1,13 @@
+Black-Necked Gartersnakes *Thamnophis cyrtopsis* are medium sized (~41-71cm, record 117cm) New World natricine snakes that range across the southwest of North America from SE Utah and SE Colorado south through central Arizona, east through New Mexico into west Texas and Mexico into Central America.  Scales are strongly keeled, and the anal plate is undivided.  
+ 
+*T. cyrtopsis* is found in a wide variety of habitats, from woodland to grassland to scrubland to desert where it is typically associated with streams, ditches, canals and other bodies of water.  Black-Necked Garters are generalist predators that prefer amphibians and fish but will also take earthworms, lizards and crustaceans.
+ 
+When cornered or frightened, the Black-Necked Gartersnake, like many garter and watersnakes, might flatten the head and body to make itself appear larger, bite or pretend to bite, and release a foul smelling musk from the vent.  Mild toxins in the saliva are effective in subduing prey, but bites are considered harmless to humans.
+ 
+US range overlaps in part with at least seven other species of garter snake, but only a few are likely to be regularly confused with the Black-Necked Gartersnake.  Where their ranges overlap, the Common Gartersnake *T. sirtalis* typically exhibits prominent red or orange spotting or barring laterally, and the dark post-cranial blotches that the black-necked garter snake are named for are either less prominent or lacking entirely in the former.  The Western Terrestrial Gartersnake *T. elegans* similarly lacks or has less prominent dark, post-cranial blotches and can be further differentiated by dark markings or a near uniformly dark venter.  The positioning of the lateral stripes on scale rows 2 & 3 differentiates from the Mexican Gartersnake *T. eques*, Plains Gartersnake *T. radix), and Western Ribbonsnake *T. proximus*, all of whose respective lateral stripes are positioned on scale rows 3 & 4.  The lateral stripes of the Black-Necked Gartersnake *T. cyrtopsis* are much wider and more uniformly positioned than those of the Checkered Gartersnake *T. marcianus*, which are thinner and confined to the 3rd scale row anteriorly.  The Narrow-Headed Gartersnake *T. rufipunctatus* is uncommon across much of its range, has a distinctly shaped head more similar to water snakes of the genus *Nerodia* and lacks the dorsolateral stripes and post-cranial blotches of the Black-Necked Gartersnake.
+ 
+[Range map](https://imgur.com/1n6eDIG)
+
+This genus and this species are in need of revision using modern molecular methods.
+ 
+*This short account was prepared by /u/fairlyorange and edited by /u/Phylogenizer*.

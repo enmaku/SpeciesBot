@@ -1,0 +1,9 @@
+Herald Snakes *Crotaphopeltis hotamboeia* are medium sized (40-70cm, up to 89cm) mildly venomous colubrid snakes that range from the coast of Senegal east to the coast of Somalia, south to the southern coast of South Africa from sea level to 2,500m.  They chiefly occupy moist savanna and open woodland, especially near water and often occur in disturbed areas such as suburban yards and gardens.
+
+Rear-fanged snakes, *C. hotamboeia* produce a mild venom that helps them subdue the frogs and toads that constitute most of their diet.  They are considered harmless to humans but as a precaution, prolonged, chewing bites should be avoided.  They are primarily nocturnal in habit.
+
+Herald Snakes have dorsal scales that are keeled posteriorly, but sometimes smooth anteriorly, and usually arranged in 19 rows at midbody.  The head is somewhat small to moderate in size, with a short muzzle and blunt snout, but when frightened [they often flatten the head](https://www.inaturalist.org/photos/197293018?size=large), which can make it appear convincingly larger.  The eyes are moderately large with vertical pupils.  There are usually 8 supralabials with 3-5th in contact with the eye, a loreal scale, usually 1 (1-2) preocular, and 2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map](https://www.iucnredlist.org/species/13264994/13265005)  |  [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Crotaphopeltis_hotamboeia_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Crotaphopeltis&species=hotamboeia)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/herald-or-red-lipped-snake)
+
+This short account was written by /u/fairlyorange

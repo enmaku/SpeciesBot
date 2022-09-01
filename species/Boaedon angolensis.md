@@ -1,0 +1,9 @@
+Angolan House Snakes *Boaedon angolensis* are medium sized (approx. 65cm, up to 102cm), harmless lamprophiid snakes endemic to the high plateau of western and central Angola, and are recorded at elevations between 750m and 1,800m.  They inhabit mixed savanna-forest, and can be particularly common in disturbed areas, such as farmbush, cultivated fallow, and forest clearings.
+
+Until recently, *B. angolensis* was considered a population of Striped House Snakes *B. lineatus*, a closely related species which ranges to the north.  The true distributional limits of *B. angolensis*, *B. lineatus*, and related species require further investigation.  Primarily nocturnal in habit, they are powerful constrictors and prey probably consists of frogs, lizards, rodents, and shrews, as in *B. lineatus* and other closely related house snakes.  They are often found near homes and buildings, a habit from whence they derive the common name "house snake".
+
+Angolan House Snakes have smooth, glossy dorsal scales arranged in 25-28 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are moderately large and have vertical pupils.  There are 8-9 supralabials with the 4th and 5th in contact with the eye, an elongate loreal scale, 1-2 preoculars, and 1-2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Lamprophiidae/Boaedon_angolensis_map.html)  |  [Relevant/Recent Phylogeography](https://www.researchgate.net/publication/342802476_A_review_of_the_Angolan_House_snakes_genus_Boaedon_Dumeril_Bibron_and_Dumeril_1854_Serpentes_Lamprophiidae_with_description_of_three_new_species_in_the_Boaedon_fuliginosus_Boie_1827_species_complex)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=angolensis)
+
+This short account was written by /u/fairlyorange

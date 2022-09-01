@@ -1,0 +1,11 @@
+Four-lined Snakes *Elaphe quatuorlineata* are large (130-160cm, up to 250cm) harmless colubrid snakes native to southern and central peninsular Italy, and the Balkans from southwestern Slovenia south along the coast into Greece and east into extreme southwestern Bulgaria, from sea level to 2,500m.  They chiefly inhabit warm, shaded, and somewhat humid environs, including well vegetated hillsides, thickets, forest edges, and the marshy sections of water bodies.  Sometimes found around areas of human habitation, where they inhabit rock walls, hedgerows, and disused buildings.
+
+*E. quatuorlineata* are moderately robust in build, and movements tend to be slow and deliberate.  They are strong climbers and can sometimes be found in trees and shrubs.  Mainly diurnal, but can become crepuscular during hot weather.  Prey is mainly rodents, but other small mammals, small birds, lizards, and amphibians are sometimes taken.  When cornered, they often hiss loudly and slowly retreat, but are often reluctant to bite.
+
+Four-lined Snakes have weakly, but noticeably keeled dorsal scales arranged in 25 rows at midbody.  The eyes are moderate in size and the head is fairly large.  There are usually 8 supralabials (sometimes 9), and there is one large preocular (rarely cleaved into two of similar size), a small presubocular (sandwiched in between the anterior part of the eye and supralabials 3 & 4), and two postoculars.  The anal scale is divided.
+
+Where their respective ranges overlap, they might be confused with the Aesculapian Snakes, *Zamenis longissimus* and *Z. lineatus*, but *E. quatuorlineata* can be differentiated by their more robust build, chunkier head with more pointed snout, having 25 dorsal scale rows at midbody, and the presence of a presubocular scale.  The closely related blotched snake *E. sauromates* is almost identical in body shape, habits, scalation, and can sometimes have a similar dorsal pattern, but does not overlap in range.
+
+[Range Map](https://www.iucnredlist.org/species/157264/5065135)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Elaphe&species=quatuorlineata)
+
+This short account was written by /u/fairlyorange

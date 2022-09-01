@@ -1,0 +1,13 @@
+European Cat Snakes *Telescopus fallax* are medium sized (50-60cm, up to 120cm), mildly venomous colubrid snakes that range from extreme northeastern Italy east to the Caspian Sea in extreme southern Transcaucasian Russia, south to the Persian Gulf, into Israel, and through Greece, from sea level up to 2,000m.  They are present on many eastern Mediterranean islands, including Crete and Cyprus, with an isolated population on Malta.
+
+*T. fallax* tends to prefer dry, rocky areas, such as Mediterranean scrub, rocky outcrops and slopes, valleys, open woodland, and steppe.  They can be common in disturbed or settled areas, where they inhabit stone walls, ruins, gardens, and agricultural areas.  Slow moving and mostly nocturnal or crepuscular in habit, they are nonetheless active predators upon lizards, and occasionally rodents and small birds.  They are strong climbers.
+
+European Cat Snakes are generally calm and docile, but some individuals might bite if seized or attacked.  Envenomation is rare, and their venom is widely regarded as harmless to humans, but care should be taken to avoid prolonged, chewing bites as a precaution.  **The best way to avoid being bitten is to leave the snake alone.**
+
+*T. fallax* have smooth dorsal scales arranged in 19 (occasionally 21) rows at midbody.  The eyes are proportionally large, with vertical pupils, hence the common name. There are usually 8 supralabials, the loreal is elongate and in contact with the eye, with a reduced preocular scale directly above it.   The anal scale is usually divided.
+
+When threatened, *T. fallax* often [flatten the head to make themselves appear larger](https://www.inaturalist.org/photos/36132923?size=large).  This, combined with a somewhat triangular head shape and their elliptical, cat-like pupils sometimes causes them to be confused with venomous vipers.  *T. fallax* can be differentiated, however, by having 1. [small supraocular scales and more dorsally positioned eyes which impart a "derpy" appearance](https://snakeevolution.org/images/VberTfal1supocu.png), 2. [scales on top of the head which are large and distinct](https://snakeevolution.org/images/VberTfal2pari.png), and 3. [supralabial scales (usually 3-5) which are in contact with the eye](https://snakeevolution.org/images/VberTfal3suplab.png).  Further clues include [a vertically flattened head, a more slender, laterally compressed body](https://snakeevolution.org/images/Tfallaxshape.png), and a longer, more slender tail than the vipers that overlap in range.
+
+[Range Map](https://www.iucnredlist.org/species/157258/5062870)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Telescopus&species=fallax)
+
+This short account was written by /u/fairlyorange

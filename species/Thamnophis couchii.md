@@ -1,0 +1,13 @@
+Sierra Gartersnakes *Thamnophis couchii* are medium sized (46-102cm), New World natricine snakes that range from northern to southern California and west-central Nevada, with a distribution largely tied to the Sierra Nevada range and major watersheds on either side.  Favored habitat includes a wide variety of water bodies and wetlands (especially with rocky beds and/or shores) in coniferous montane forest, [California oak woodland communities](https://en.wikipedia.org/wiki/California_oak_woodland), [California chaparral biome](https://en.wikipedia.org/wiki/California_chaparral_and_woodlands), [Central Valley grassland](https://en.wikipedia.org/wiki/California_Central_Valley_grasslands), and lush valleys.  Their main prey is frogs, tadpoles, salamanders, and fish.  Individuals that consume highly toxic *Taricha* newts might be [poisonous to other predators](https://www.researchgate.net/publication/8120008_A_Resistant_Predator_and_Its_Toxic_Prey_Persistence_of_Newt_Toxin_Leads_to_Poisonous_Not_Venomous_Snakes).
+
+When cornered/frightened, *T. couchii*, like many garter and water snakes, may flatten the head and body to make itself appear larger, bite or pretend to bite, and release a foul smelling musk from the vent. Mild toxins in the saliva might be effective in subduing smaller prey items, but bites are considered harmless to humans.
+
+*T. couchii* are broadly sympatric with Common Gartersnakes, *T. sirtalis*, and Terrestrial Gartersnakes, *T. elegans*, but they can usually be distinguished from the former by a universally dark background color and bright, wide, distinct dorsal stripes; *T. sirtalis* also has prominent red markings laterally.  However, their range slightly overlaps that of the aquatic garter snake, *T. atratus*, in north-central Shasta County, as well as that of the Two-striped Gartersnake, *T. hammondii* in the western end of the Tehachapi Mountains, and all three reportedly hybridize occasionally.  These species are best told apart by [a combination of scalation characteristics](http://www.californiaherps.com/identification/snakesid/gartersnakeskey.html).
+
+[Range Map - Entire](http://www.californiaherps.com/snakes/maps/xtcouchiispeciesmap3.jpg)  | 
+ [Range Map - California](http://www.californiaherps.com/snakes/maps/tcouchiimap2.jpg)
+
+Additional Information - [Link 1](http://www.californiaherps.com/snakes/pages/t.couchii.html)  | 
+ [Link 2](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.105516/Thamnophis_couchii)
+ 
+*This short account was prepared by /u/fairlyorange and edited by /u/Phylogenizer*.

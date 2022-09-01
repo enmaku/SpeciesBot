@@ -1,0 +1,9 @@
+Katian Spitting Cobras *Naja katiensis* are medium-sized (50-80cm, up to 107cm, possibly larger) elapids with a disjunct range from the southern coast of Senegal and Gambia east into northern Cameroon, from near sea level up to 900m.  They primarily inhabit savanna and semi-desert.  They are mainly nocturnal, but can be active during the day.  Their primary prey is frogs, but lizards, snakes, small birds, and rodents are also consumed.
+
+Dangerously venomous, *N. katiensis* should only be observed from a safe distance.   When frightened, they often raise the forebody off the ground, spread the neck into a long, narrow hood, and hiss loudly.  They are also capable of "spitting" their venom, and can aim accurately up to 3m away.  If it gets in the eyes, care must be taken to gently flush them out with water or other inert liquid as soon as possible to prevent permanent damage, and medical care should be sought.  They are capable of biting and/or ejecting venom without first spreading a hood.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Katian Spitting Cobras are moderately robust in build.  The head is somewhat small, with relatively large eyes and a blunt snout.  The dorsal scales are smooth and arranged in 23-27 rows at the neck and usually 25 (21-27) rows at midbody.  There are usually 6 (6-8) supralabials with the 3rd in contact with the eye, 2 preoculars, and 3 postoculars.  No subocular scales are present.  The anal scale is single and the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13265887/126471645)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Naja&species=katiensis)
+
+This short account was written by /u/fairlyorange

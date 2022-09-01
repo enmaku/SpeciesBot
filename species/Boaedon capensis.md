@@ -1,0 +1,10 @@
+Brown House Snakes *Boaedon capensis* are medium sized (60-90cm, up to 150cm), lamprophiid snakes that range from northwestern Namibia east to coastal Mozambique, south through South Africa; according to some authors, they also range further north along the eastern African coast up to northeastern Somalia, from near sea level to 1,350m.  They are found in a wide variety of natural and disturbed habitat, but are perhaps most common in areas of human habitation, even in urban zones, where they occupy agricultural areas, parks, and gardens.  Typically absent from extensive closed canopy forest and montane zones.
+
+They were formerly confused with Sooty House Snakes *B. fuliginosus*, which is now understood to comprise a large complex of species.  Some evidence suggest that *B. capensis* itself might comprise a species complex, and more investigation is required to determine if some populations represent distinct species of their own.  Primarily nocturnal in habit, they are powerful constrictors and prey mainly on rodents and lizards.  Small birds, snakes, frogs, and bats are also taken.  They often wander indoors of search of rodents, a habit from whence they derive the common name "house snake".
+
+Brown House Snakes have smooth, glossy dorsal scales arranged in 25-35 rows at midbody.  The head is shaped very similarly to those of pythons; distinct at the neck and tapers toward the snout.  The eyes are moderately large, but can be large or very large in some populations, and have vertical pupils. 
+There are usually 8 supralabials with the 4th and 5th in contact with the eye, an elongate loreal scale, usually 1 preocular, and 2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map](https://www.iucnredlist.org/species/200990551/201503751)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=capensis)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/brown-house-snake/)
+
+This short account was written by /u/fairlyorange

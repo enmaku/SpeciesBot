@@ -1,0 +1,9 @@
+Forest Night Adders *Causus lichtensteinii* are small-medium (30-55cm, up to 70cm) true vipers that range from coastal Sierra Leone east into western Kenya, south into far northern Angola and extreme northern Zambia, from near sea level up to 2,100m above sea level.  They primarily inhabit moist areas within or alongside forest and other woodland.  Despite the common name, they tend to be more active during the day.  Their main prey is toads and other frogs.
+
+*Causus* night adders generally aren't considered a deadly animal, but are nonetheless dangerously venomous and should only be observed from a distance.  When frightened, individuals might flatten or inflate the body, hiss loudly, and/or strike toward the perceived aggressor.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Forest Night Adders are moderately stout in build, with relatively short, slightly distinct or indistinct heads.  The dorsal scales are weakly keeled and usually arranged in 15 rows at midbody.  Unlike most other viperids, the top of the head is covered with large, plate-like scales.  There are usually 6 (6-7) supralabials, which are separated from the eye by 2 subocular scales.  There is usually 1 (1-2) loreal scale, 1-2 preoculars, and 2-3 postoculars.  The anal scale and subcaudals are single.
+
+[Range Map](https://www.iucnredlist.org/species/13300938/13300947)  |  [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Viperidae/Causus_lichtensteinii_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Causus&species=lichtensteinii)
+
+This short account was written by /u/fairlyorange

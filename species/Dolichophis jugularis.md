@@ -1,0 +1,9 @@
+Large Whipsnakes *Dolichophis jugularis* are large (160-200cm, up to 250cm), harmless colubrid snakes found in Western Asia, from the west-central coast of Turkey east into central Armenia, south into west-central Iran, eastern Iraq, western Jordan, and extreme northeastern Egypt, from sea level up to 2,000m.
+
+*D. jugularis* are most common in dry, open areas such as fields, stream banks, and rocky hillsides and are often common in and around areas of human habitation, where they inhabit parks, gardens, stone walls, and agricultural areas.  They are largely diurnal, but will switch to crepuscular or nocturnal activity during the hottest months. They are active, swift-moving, and sight oriented hunters that feed opportunistically upon a variety of prey, including rodents, lizards, snakes, and small birds.  They rely on their speed to escape predators, such as humans, but will bite readily when seized.  Nonetheless, their bites are not dangerous and can be easily disinfected with hand sanitizer, or washing with mild soap and water.
+
+*D. jugularis* have smooth dorsal scales arranged in 19 rows at midbody.  The eyes are large.  There are usually 8 supralabials, with the 4th and 5th in contact with the eye, a loreal scale, one large preocular, a small presubocular sandwiched in between the anterior part of the eye and supralabials 3 & 4, and 2 (occasionally 3) postoculars.  The anal scale is divided.
+
+[Range Map](https://www.iucnredlist.org/species/157294/749921)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Dolichophis&species=jugularis)
+
+This short account was written by /u/fairlyorange

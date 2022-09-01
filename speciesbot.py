@@ -42,7 +42,7 @@ def checkComment(comment):
 	for species in specieslist:
 		if "*" + species + "*" in comment.body:
 			print("String with " + species + " found in comment " + comment.id)
-			with open("species/" + species + ".txt", "r") as f:
+			with open("species/" + species + ".md", "r") as f:
 				comment_reply = f.read()
 				bldr.append(comment_reply)
 				print("Replied to comment " + comment.id)

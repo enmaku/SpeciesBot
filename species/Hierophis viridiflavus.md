@@ -1,0 +1,7 @@
+Western or Green Whipsnakes *Hierophis viridiflavus* are medium-large (120-150cm, up to 180cm), harmless colubrid snakes that range from northwestern France east to Slovenia, south into extreme north-central Spain and the central coast of Croatia, from sea level up to 2,000m.  They utilize a variety of open areas, including scrubland, forest edges, hillsides, and fields, and can be common in and around areas of human habitation, where they inhabit gardens, hedgerows, old ruins, and agricultural areas.  
+
+*Hierophis viridiflavus* are largely diurnal.  They are active, swift moving, vision oriented hunters and feed opportunistically upon a variety of prey, including rodents, lizards, other snakes (including vipers), amphibians, and small birds.  They utilize their speed to evade predators, including humans, but can bite vigorously when seized.  Nonetheless, their bites are not dangerous and can be easily disinfected by washing the site with gentle soap and warm water (alternatively, hand sanitizer is also effective).
+
+*Hierophis viridiflavus* have smooth dorsal scales arranged in 19 rows at midbody.  The eyes are large and there is one loreal scale positioned between a postnasal scale and one large preocular, with a small presubocular sandwiched in between the anterior part of the eye and supralabials 3 & 4.  The anal scale is divided.
+
+[Range Map](https://www.iucnredlist.org/species/61449/86246670)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Hierophis&species=viridiflavus)

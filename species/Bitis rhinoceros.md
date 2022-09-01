@@ -1,0 +1,11 @@
+West African Gaboon Vipers *Bitis rhinoceros* are large (90-150cm, up to 205cm) true vipers that range from coastal Guinea east into southwestern Togo, from near sea level up to 1,500m.  It is principally a snake of rainforest, being most common along forest edges, but moist savanna, bushy areas along streams and swamps, agricultural plantations, and farmbush are also utilized.
+
+Dangerously venomous, *Bitis rhinoceros* should only be observed from a safe distance.  They are shy and unaggressive, typically relying on their camouflage to avoid predators.  When frightened, they often raise the forebody off the ground and hiss loudly to warn off the perceived aggressor.  Bites are rare, but should be treated as a serious medical emergency.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Primarily nocturnal, *B. rhinoceros* are sluggish, ambush predators, but they also actively forage for prey.  Their main prey is rodents, but other small mammals and small birds are also consumed.  They are primarily ground-dwellers, but some individuals will climb into bushes and low trees.  They also swim well.
+
+West African Gaboon Vipers are very heavy-bodied snakes, with large and distinct heads.  Prominent horn-like scales above each nostril, along with the presence of only one dark, triangle shaped marking on the face, helps differentiate them from the closely related East African Gaboon Viper *B. gabonica.* The dorsal scales are strongly keeled and arranged in 28-46 rows at midbody.  The head is covered by a large number of small, mostly keeled scales, and the eyes are positioned slightly dorsally.  There are usually 13-18 supralabials, which are separated from the eye by 4-5 rows of smaller scales.  The anal scale is single, but the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13300925/13300932)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Bitis&species=rhinoceros)  |  [Additional Information](https://www.nationalgeographic.org/projects/photo-ark/animal/bitis-rhinoceros/)
+
+This short account was written by /u/fairlyorange

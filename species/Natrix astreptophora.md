@@ -1,0 +1,11 @@
+Iberian Grass Snakes *Natrix astreptophora* are medium sized (70-120cm, up to 143cm), Old World natricine snakes that range from extreme southern France south and west through Iberia, and northern Morocco east into northern Tunisia, from sea level up to 3,200m.  They principally inhabit mesic woodland, moist meadows, and especially in more arid regions, the perimeters of wetlands and water bodies, but can also be common around human habitation, where they utilize stone walls, hedgerows, and drainage ditches. 
+
+*N. astreptophora* are primarily diurnal, but may become crepuscular or nocturnal during the hotter months. They prey primarily on amphibians and their eggs, but earthworms, insects, fish, rodents, and small birds are occasionally taken.  They are not aggressive and rarely bite, but when threatened often flatten the head and/or body to appear larger, strike repeatedly with the mouth usually closed, release a foul smelling musk from the vent, and/or dramatically play dead.
+
+Iberian Grass Snakes have keeled scales, usually arranged in 19 rows at midbody.  Like other members of the *N. natrix* species group, the eyes are positioned somewhat laterally, and usually with striking reddish or orange irises.  They usually have 7 supralabials with the 3rd and 4th in contact with the eye, 1 preocular, and usually 3 (2-4) postoculars.  The anal scale is divided, and there are 156-166 ventrals.  
+
+*N. astreptophora* is sometimes confused with other *Natrix* spp.  *N. maura* by can be differentiated by having more dorsally positioned eyes, usually 21 dorsal scale rows at midbody, by sometimes having 2-3 preoculars, and by usually having 2 postoculars.  In extreme southern France, *N. helvetica* can usually be differentiated by having yellow or brown eye color and at least 162 ventral scales.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Natrix_astreptophora_map.html)  |  [Relevant/Recent Phylogeography](https://academic.oup.com/biolinnean/article/118/4/873/2705724)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Natrix&species=astreptophora)  |  [Additional Information](http://www.moroccoherps.com/en/ficha/natrix_astreptophora/)
+
+This short account was written by /u/fairlyorange

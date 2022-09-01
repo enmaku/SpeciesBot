@@ -1,0 +1,9 @@
+Bug-eyed House Snakes *Boaedon mentalis* are small-medium sized (60-90cm), harmless lamprophiid snakes that range from southwestern Angola south into northwestern South Africa.  Favored habitat is sandy Mopane savanna, but like many other house snakes, they can be common in and around areas of human habitation.
+
+Until recently, *B. mentalis* were confused with the closely related Brown House Snake *B. capensis* and Sooty House Snake *B. fuliginosus*.  The true distributional limits of *B. mentalis* and related species require further investigation.  Primarily nocturnal in habit, they are powerful constrictors and prey primarily on rodents and lizards.  Like their close relatives, they probably also occasionally consume frogs, shrews, small birds, and perhaps other items.
+
+Bug-eyed House Snakes have smooth, glossy dorsal scales arranged in 25-27 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are large or very large and have vertical pupils.  There are 8 supralabials with 3-5 in contact with the eye, an elongate loreal scale, 1 preocular, and 2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map](https://www.iucnredlist.org/species/200989962/200989977)  |  [Relevant/Recent Phylogeography](https://www.researchgate.net/publication/342802476_A_review_of_the_Angolan_House_snakes_genus_Boaedon_Dumeril_Bibron_and_Dumeril_1854_Serpentes_Lamprophiidae_with_description_of_three_new_species_in_the_Boaedon_fuliginosus_Boie_1827_species_complex)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=mentalis&search_param=%28%28genus%3D%27Boa%27%29%29)
+
+This short account was written by /u/fairlyorange

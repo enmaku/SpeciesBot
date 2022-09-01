@@ -1,0 +1,11 @@
+Slender Green Snakes *Philothamnus heterolepidotus* are medium sized (60-80cm, up to 100cm), harmless colubrid snakes that range from Sierra Leone east into southeastern Sudan, south into northern Zambia and central Angola, from near sea level up to 2,000m.  They chiefly inhabit well vegetated areas within forest, moist savanna, and in riparian corridors, especially near water, and can sometimes be common around areas of human habitation.
+  
+Diurnal and semiarboreal in habit, *P. heterolepidotus* are often found in trees, shrubs, and other tall vegetation.  Their main prey is frogs, though lizards are also believed to be taken occasionally.
+
+Like other *Philothamnus* bush snakes, *P. heterolepidotus* are sometimes confused with the venomous boomslang *Dispholidus typus*, but [boomslangs have very short heads with proportionally larger eyes](https://www.africansnakebiteinstitute.com/articles/snake-comparison-spotted-bush-snake-vs-boomslang/) than harmless *Philothamnus* spp.  They are also commonly confused with green colored *Dendroaspis* mambas, but mambas grow to much larger sizes, are more robust in build, and [they have a more elongated and "coffin-shaped" head with proportionally smaller eyes](https://www.africansnakebiteinstitute.com/articles/snake-comparison-eastern-natal-green-snake-vs-green-mamba/) than harmless *Philothamnus* spp.
+
+Slender Green Snakes have smooth scales arranged in 15 rows at midbody.  The head is narrow, moderately elongate, and with moderately large eyes.  There are usually 9 (8-9) supralabials with 4-6 in contact with the eye, an elongate loreal scale, 1 preocular which does not contact the frontal, and 2 postoculars.  There is 1 anterior and 1 posterior temporal scale.  The anal scale and subcaudals are divided.  The ventrals are weakly keeled laterally and the subcaudals are smooth.
+
+[Range Map](https://www.iucnredlist.org/species/13265499/13265508)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Philothamnus&species=heterolepidotus)
+
+This short account was written by /u/fairlyorange

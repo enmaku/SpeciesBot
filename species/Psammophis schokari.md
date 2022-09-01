@@ -1,0 +1,7 @@
+Forskål's Sandsnakes *Psammophis schokari* are medium-large (100-120cm, up to 148cm), mildly venomous, psammophiid snakes that range from the Atlantic Coasts of Morocco and Mauritania east into northern Pakistan and extreme eastern India, and north as far as south-central Turkmenistan, from sea level to 2,400m.  They inhabit a wide variety of arid and semiarid areas, sometimes near water, including Mediterranean scrub, dry grassland, open desert, rocky slopes, wadis, oases, and agricultural areas.
+
+*P. schokari* are mildly venomous, rear-fanged snakes; envenomation is uncommon and usually mild, but prolonged, chewing bites should be avoided as a precaution.  They are extraordinarily wary, difficult to approach, and **bites rarely occur unless a snake is intentionally pursued and harassed**.  Diurnal in habit, these active, swift moving, and vision-oriented hunters prey primarily on lizards, but snakes, rodents, and small birds are also taken.
+
+Forskål's Sandsnakes have smooth scales arranged in 17 rows at midbody.  The head is narrow and elongate with large eyes.  There are usually 9 supralabials, an elongate loreal, a preocular, and usually 2 postoculars.  The anal scale is divided.
+
+[Range Map](https://www.iucnredlist.org/species/164704/1069614)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Psammophis&species=schokari)  |  [Spanish Language Additional Information](http://www.moroccoherps.com/es/ficha/psammophis_schokari/)

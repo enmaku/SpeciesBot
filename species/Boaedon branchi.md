@@ -1,0 +1,9 @@
+Branch's Brown House Snakes *Boaedon branchi* are small-medium sized (max. known length 63cm), harmless lamprophiid snakes thus far recorded only from the southeastern Cuando Cubango Province of Angola, but it is suspected their range likely extends into northern Namibia and nearby Zambia.  Recorded habitat includes sandy Miombo woodland.
+
+Until recently, *B. branchi* was confused with Striped House Snakes *B. lineatus* and Angolan House Snakes *B. angolensis*, closely related species which range to the north and west, respectively.  The true distributional limits of *B. branchi* and related species require further investigation.  Primarily nocturnal in habit, they are powerful constrictors and the only recorded prey consists of rodents.  Other closely related house snakes also eat frogs, lizards, shrews, and other prey, and *B. branchi* likely does as well.
+
+Branch's Brown House Snakes have smooth, glossy dorsal scales arranged in 29 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are moderately large and have vertical pupils.  There are 8 supralabials with 4th and 5th in contact with the eye, an elongate loreal scale, 1-2 preoculars, and 2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Lamprophiidae/Boaedon_branchi_map.html)  |  [Relevant/Recent Phylogeography](https://www.researchgate.net/publication/342802476_A_review_of_the_Angolan_House_snakes_genus_Boaedon_Dumeril_Bibron_and_Dumeril_1854_Serpentes_Lamprophiidae_with_description_of_three_new_species_in_the_Boaedon_fuliginosus_Boie_1827_species_complex)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=branchi)
+
+This short account was written by /u/fairlyorange

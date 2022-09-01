@@ -1,0 +1,12 @@
+Aquatic Gartersnakes *Thamnophis atratus* are medium sized (46-71cm, record 102cm), New World natricine snakes with a largely coastal distribution that range from southern Oregon (as far north as Douglas and Coos Counties) to southern California (as far south as Santa Barbara County).  Favored habitat includes a wide variety of waterbodies and wetlands (especially rocky ones with open areas on the shoreline conducive to basking) alongside or surrounded by various wooded, scrubby, or grassy environs.  
+
+Some individuals are more terrestrial than their common name would imply, especially around the San Francisco Bay Area and Santa Cruz County.  Their main prey is frogs, tadpoles, and aquatic salamanders, but fish, leeches, and slugs are sometimes taken with rodents and earthworms recorded as well.  Individuals that consume highly toxic *Taricha* newts might be [poisonous to other predators](https://www.researchgate.net/publication/8120008_A_Resistant_Predator_and_Its_Toxic_Prey_Persistence_of_Newt_Toxin_Leads_to_Poisonous_Not_Venomous_Snakes).
+
+When cornered/frightened, *T. atratus*, like many garter and water snakes, might flatten the head and body to make itself appear larger, bite or pretend to bite, and release a foul smelling musk from the vent. Mild toxins in the saliva might be effective in subduing smaller prey items, but bites are considered harmless to humans.
+
+*T. atratus* are apparently rare at the southern edge of their range (Santa Barbara and San Luis Obispo Counties), and reportedly hybridize with *T. hammondii* there.  They might also hybridize with *T. couchii* where their ranges overlap in north-central Shasta County.  *T. atratus* are sometimes difficult to differentiate from sympatric garter snakes.  The presence of red lateral barring on sympatric *T. sirtalis* and many *T. elegans* will differentiate them from *T. atratus*, which don't have red coloration (rarely, in Mendocino and Sonoma).  To differentiate them from *T. elegans* that lack red, or from other sympatric garter snakes, they are [best told apart by a combination of scalation characteristics](http://www.californiaherps.com/identification/snakesid/gartersnakeskey.html).  
+
+[Range Map](https://www.iucnredlist.org/species/63970/12732165)
+  |  [Additional Information](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100361/Thamnophis_atratus)
+  
+  *This short account was prepared by /u/fairlyorange and edited by /u/Phylogenizer*.

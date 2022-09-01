@@ -1,0 +1,13 @@
+Western Barred or Black Spitting Cobras *Naja nigricincta* are large (100-150cm, up to 200cm) elapids that range from the southern coast of Angola south to the southwestern coast of South Africa, from near sea level up to 1,630m above sea level.  They primarily inhabit dry, rocky areas such as desert, semi-desert scrub, arid grassland, and arid savanna.  They are generalist predators and feed on amphibians, snakes, lizards, rodents, and small birds.
+
+Northern populations are smaller on average (100-120cm, up to 170cm).  They are light colored (grey, tan, pinkish, etc.) with distinctive black bands that inspire the alternative name "zebra spitting cobra".  They are chiefly nocturnal, and seem to favor amphibian prey.
+
+Southern populations are larger on average (120-150cm, up to 200cm) and might represent a distinct species.  They are jet black in coloration.  Mostly diurnal in habit, they are commonly found in dry riverbeds and rocky outcrops.  They appear to favor reptiles and rodents as prey.
+
+Dangerously venomous, *N. nigricincta* should only be observed from a safe distance.  When frightened, they often raise the forebody off the ground and spread the neck into a broad hood.  They are also capable of spitting their venom, and can aim accurately up to 3m away.  If it gets in the eyes, care must be taken to gently flush them out with water or other inert liquid as soon as possible to prevent permanent damage, and medical care should be sought.  They are capable of biting and/or ejecting venom without first spreading a hood.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Moderately stout in build, *N. nigricincta* have a short but chunky head, small to moderately sized eyes, and a blunt snout.  The dorsal scales are smooth and arranged in 21-25 rows at the neck and usually in 21 (21-23) rows at midbody.  There are usually 6 supralabials with the 3rd in contact with the eye, usually 2 (1-2) preoculars, and 2-3 postoculars.  The subocular scale is absent.  The anal scale is single and the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/110168705/139747789)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Naja&species=nigricincta)  |  [Additional Information, Northern Populations](https://www.africansnakebiteinstitute.com/snake/african-snakes-zebra-cobra/)  |  [Additional Information, Southern Populations](https://www.africansnakebiteinstitute.com/snake/black-spitting-cobra/)
+
+This short account was written by /u/fairlyorange

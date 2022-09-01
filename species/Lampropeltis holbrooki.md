@@ -1,0 +1,4 @@
+Speckled kingsnakes *Lampropeltis holbrooki* are large (90-122 cm record 183 cm) non-venomous colubrid snakes with smooth scales, part of a group of kingsnakes called the getula species complex. They range from east of the Trans-Pecos in Texas and west of the Mississippi River. Individuals are variable and are best distinguished from other similar kingsnakes by geographic range. Kingsnakes kill by constriction and will eat mainly rodents, lizards, and other snakes, including venomous snakes. Kingsnakes are immune to the venom of the species on which they prey. 
+  
+[Range map](https://imgur.com/RK1xt2o) | Relevant/Recent Phylogeography: [Link 1](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.537.5407&rep=rep1&type=pdf) [Link 2](https://academic.oup.com/sysbio/article-abstract/63/2/231/1644072)
+

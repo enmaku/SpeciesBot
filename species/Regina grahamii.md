@@ -1,0 +1,10 @@
+Graham's Crawfish Snakes *Regina grahamii* are medium sized (45.7-71cm, record 119.4cm) New World natricine snakes that range in the central US from northeastern Illinois west into eastern Nebraska, south to west and south Texas and southeastern Louisiana.  The distribution is patchy and some populations, especially isolated ones, are under pressure from habitat alteration and subsequent loss of prey.
+
+*R. grahamii* are semi-aquatic and inhabit a variety of quiet, calm waterbodies and wetlands, from slow streams to ditches, ponds, lakes, marshes, flooded fields, bayous, and swamps.  Their main prey is freshly molted crayfish, but other crustaceans, snails, and small amphibians are sometimes taken.
+
+*R. grahamii* have keeled scales usually arranged in 19 rows at midbody.  The anal scale is divided.  Their dorsal background color is some shade of brown (yellowish, olive, greyish, or chocolate), with a broad yellow lateral stripe located on the first, second, and third scale rows that runs into the labials.  Dark brown or black dorsolateral stripes are often present, and a lighter brown middorsal stripe is sometimes present as well.
+
+*R. grahamii* are sometimes confused with sympatric natricine snakes.  The closely related Queensnake *R. septemvittata* has a thinner lateral stripe which is restricted to the 2nd and and part of the 1st scale rows. Glossy swampsnakes *Liodytes rigida* have no lateral stripe and proportionally larger, "buggy" eyes. *Thamnophis* garter snakes and *Tropidoclonion* lined snakes have undivided anal scales and usually a middorsal stripe that is not brown. *Nerodia* water snakes have at least 21 dorsal scale rows and proportionally larger heads.
+
+[Range Map](https://www.iucnredlist.org/species/63885/12717368)  |  [Alternative Range Map - © Rune Midtgaard](https://www.repfocus.dk/maps1/TAX/Serpentes/Colubridae/Regina_grahamii_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Regina&species=grahamii)  |  [Additional Information](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100772/Regina_grahamii)
+

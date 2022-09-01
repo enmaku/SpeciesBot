@@ -1,0 +1,12 @@
+North American Racers *Coluber constrictor* are large (record 191.1 cm TBL) diurnal colubrid snakes. They are generalists often found in disturbed habitats like urban and suburban yards but also do well in many natural habitat types. They are one of the most commonly encountered snakes in North America and have a huge range spanning most of the continent. They eat anything they can overpower, including other snakes of the same species, but are not obligate constrictors as the specific epithet might suggest.
+
+Racers have smooth scales and color pattern varies clinally across their range, from steel gray to jet black, a blue "buttermilk" pattern [you have to see to believe](http://farm8.staticflickr.com/7301/8798279515_d8222853cb_b.jpg), to blue, green and yellow. These color patterns are tied closely to local environment and don't track evolutionary history.
+Baby racers start out with a blotchy pattern and darken over the first two years, losing it entirely.
+Racers are not considered medically significant to humans - they are not venomous, but all animals with a mouth can use it in self-defense. Racers are particularly, alert, agile snakes, and will sometimes stand their ground when cornered and/or bite when handled. 
+
+Often confused with keeled "black" ratsnakes (northern ranges of *Pantherophis obsoletus*, *P. spiloides* and *P. alleghaniensis*), racers *Coluber constrictor* have smooth scales. Indigo snakes *Drymarchon couperi* have orange on the face or neck and an undivided anal plate. In some cases they are difficult to differentiate from coachwhip snakes *Masticophis flagellum*, but on average have two more posterior scale rows (15) than *M. flagellum*.
+
+Relevant/Recent Phylogeography: [Link 1](http://www.cnah.org/pdf/88643.pdf) | [Link 2](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.597.209&rep=rep1&type=pdf)
+
+Racers in peninsular Florida are distinct from those in the continent -  No formal elevation to species status has occurred yet and subspecies describe color pattern rather than match population differentiation, but it's not particularly premature to follow the lines of evidence; ancient estimated divergence times, niche identity and genomic data suggest racers found in peninsular Florida deserve full species status. There is evidence that some populations of other North American Racers warrant species-level recognition but this work in ongoing. 
+

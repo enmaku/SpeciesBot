@@ -1,0 +1,9 @@
+Banded Forest Cobras *Naja savannula* are large (130-200cm, up to 230cm) elapids that range from coastal Senegal east into southwestern Chad, and south to the coast of Togo, Benin, and eastern Ghana, from near sea level up to 1,250m.  They mainly inhabit savanna, especially near water.  They can be common in areas of human habitation.  Though typically active by day, they are primarily nocturnal in urban zones.  Their diet is highly varied and likely consists of rodents, frogs, fish, snakes, lizards, and small birds.  They are mainly terrestrial, but swim and climb well.
+
+Dangerously venomous, *N. savannula* should only be observed from a safe distance.  When frightened, they often raise the forebody off the ground and spread the neck into a long, somewhat narrow hood and might strike if the perceived aggressor does not back off.  They do not need to spread a hood in order to bite.  Attempting to kill or capture a snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Banded Forest Cobras are somewhat slender to moderate in build.  The head is short but chunky, with small or moderately sized eyes, and a blunt snout.  The dorsal scales are smooth and arranged in 19-25 rows at the neck and usually in 19 (17-21) rows at midbody.  There are usually 7 supralabials with the 3rd and 4th in contact with the eye, 1 preocular, and usually 3 postoculars.  No subocular scales are present.  The anal scale is single and the subcaudals are divided.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Elapidae_1/Naja_savannula_map.html)  |  [Relevant/Recent Phylogeography](https://www.mapress.com/zt/article/view/zootaxa.4455.1.3)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Naja&species=savannula)
+
+This short account was written by /u/fairlyorange

@@ -1,0 +1,11 @@
+Egyptian Cobras *Naja haje* are large (130-180cm, up to 300cm) elapids with a highly fragmented range from coastal Morocco east to the Nile Delta in Egypt, southeast to northern Somalia, and south to central Tanzania, northern Democratic Republic of the Congo, Cameroon, and central Mali, from near sea level up to 2,000m.  They mainly inhabit savanna, open woodland, grassland, wadis, and semi-desert scrub.  Avoids true desert and closed canopy forest.  They can be common in areas of human habitation, where they utilize agricultural areas, drainage ditches, and old ruins.  
+
+Active day and night, *N. haje* are mainly terrestrial, but they also swim well and occasionally climb.  Their diet is highly varied and consists mainly of frogs, small mammals, lizards, snakes (including other cobras), small birds, and bird eggs.
+
+Dangerously venomous, *N. haje* should only be observed from a safe distance.  When frightened, they often raise the forebody off the ground, spread the neck into a broad hood, hiss loudly, and might strike if the perceived aggressor does not back off.  Some individuals also briefly charge toward the perceived aggressor.  They do not need to spread a hood in order to bite.  Attempting to kill or capture a snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Egyptian Cobras are somewhat slender or moderate in build.  The head is short but chunky, with small or moderately sized eyes, and a pointed snout.  The dorsal scales are smooth and usually arranged in 21 or 23 (19-23) rows at the neck and usually in 21 (19-23) rows at midbody.  There are usually 7 (6-8) supralabials, , 1 preocular, and usually 3 postoculars.  A series of subocular scales separate the supralabials from the eye.  The anal scale is single and the subcaudals are divided.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Elapidae_1/Naja_haje_map.html)  |  [Relevant/Recent Phylogeography](https://www.mapress.com/zootaxa/2009/f/zt02236p025.pdf)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Naja&species=haje)
+
+This short account was written by /u/fairlyorange

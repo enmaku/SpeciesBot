@@ -1,0 +1,11 @@
+Northern Green Bush Snakes *Philothamnus battersbyi* are medium sized (50-80cm, up to 90cm), harmless colubrid snakes that range from Ethiopia south to northern Tanzania, west into extreme southern South Sudan and eastern Democratic Republic of the Congo, from near sea level up to 2,500m.  They chiefly inhabit well vegetated areas within forest and savanna, especially near water.  They can sometimes be common around areas of human habitation, even in urban areas.
+  
+Diurnal in habit, *P. battersbyi* are both semiaquatic and semiarboreal, spending time in water as well in shrubs and trees near the water.  Their main prey is frogs, but fish and lizards are also consumed.
+
+Like many other *Philothamnus* bush snakes, *P. battersbyi* will [inflate their throats and/or bodies](https://www.inaturalist.org/photos/49160585?size=large) when threatened, displaying the black skin in between their scales.  This behavior causes them to sometimes be confused with the venomous boomslang *Dispholidus typus*, but [boomslangs have very short heads with proportionally larger eyes](https://www.africansnakebiteinstitute.com/articles/snake-comparison-spotted-bush-snake-vs-boomslang/) than harmless *Philothamnus* spp.  They are also commonly confused with green colored *Dendroaspis* mambas, but mambas grow to much larger sizes, are more robust in build, and [they have a more elongated and "coffin-shaped" head with proportionally smaller eyes](https://www.africansnakebiteinstitute.com/articles/snake-comparison-eastern-natal-green-snake-vs-green-mamba/) than harmless *Philothamnus* spp.
+
+Northern Green Bush Snakes have smooth scales arranged in 15 rows at midbody.  The head is narrow, moderately elongate, and with moderately large eyes.  There are 8-9 supralabials with 4-5 or 5-6 in contact with the eye, a moderately elongate loreal scale, 1 preocular which does not contact the frontal, and 2 postoculars.  There is 1 anterior temporal scale and usually 1 (1-2) posterior temporals.  The anal scale and subcaudals are divided.  The ventrals are laterally keeled, but the subcaudals are smooth.
+
+[Range Map](https://www.iucnredlist.org/species/20878682/20878687)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Philothamnus&species=battersbyi)
+
+This short account was written by /u/fairlyorange

@@ -1,0 +1,11 @@
+Razi's Vipers *Macrovipera razii* are large (90-130cm, up to 214cm) true vipers that are endemic to the highlands of southern and central Iran, recorded at 1000m above sea level to at least 3150m.  They prefer dry, well vegetated or rocky areas, including brushy or rocky hillsides, semi-desert steppe, and scrubland, especially near water.  It is closely related and ecologically similar to the more familiar blunt-nosed viper *M. lebetinus*, which replaces *M. razii* to the north, east, and west.
+
+*M. razii* are a dangerously venomous species and should only be observed from a safe distance.  They are not aggressive and only bite when they feel they are in danger.  Bites most commonly occur when a human attempts to kill, capture, or otherwise intentionally handle the snake.  **The best way to avoid being bitten is to leave the snake alone.**
+
+*M. razii* are largely nocturnal though they appear to be more active by day during cooler weather and at higher elevations.  They prey primarily on birds, but lizards and rodents are also eaten.
+
+*M. razii* have keeled scales, usually arranged in 25 rows at midbody.  Unlike the closely related *M. lebetinus*, the supraocular scale in *M. razii* is not fragmented, thus the small circumorbital scales form only a partial ring around the eye.  They usually have 10-11 supralabials, and usually 3 rows of subocular scales separating them from the eye.  The scales on top of the head are keeled, small, and numerous.  The anal scale is undivided.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Viperidae/Macrovipera_razii_map.html)  |  [Relevant/Recent Phylogeography 1](http://www.salamandra-journal.com/index.php/home/contents/2018-vol-54/1915-oraie-h-e-rastegar-pouyani-a-khosravani-n-moradi-a-akbari-m-e-sehhatisabet-s-shafiei-n-stuempel-u-joger/file)  |  [Relevant/Recent Phylogeography 2](https://herpetozoa.pensoft.net/article/51186/)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Macrovipera&species=razii)
+
+This short account was written by /u/fairlyorange

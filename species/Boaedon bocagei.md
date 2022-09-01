@@ -1,0 +1,9 @@
+Bocage's Brown House Snakes *Boaedon bocagei* are small-medium sized (36-52cm, up to 73cm), harmless lamprophiid snakes native to northwestern Angola.  They inhabit savanna with sandy soils and are particularly common in disturbed areas, even in urban zones in vegetated areas.
+
+Until recently, *B. bocagei* was considered a population of the Striped House Snake *B. lineatus*, a closely related species which ranges to the north.  The true distributional limits of *B. bocagei*, *B. lineatus*, and related species require further investigation.  Primarily nocturnal in habit, they are powerful constrictors and prey probably consists of frogs, lizards, rodents, and shrews, as in *B. lineatus* and other closely related house snakes.  They are often found near homes and buildings, a habit from whence they derive the common name "house snake".
+
+Bocage's Brown House Snakes have smooth, glossy dorsal scales arranged in 25-27 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are moderately large and have vertical pupils.  There are 8-9 supralabials with 3-5 in contact with the eye, a loreal scale, 1-2 preoculars, and 2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Lamprophiidae/Boaedon_bocagei_map.html)  |  [Relevant/Recent Phylogeography](https://www.researchgate.net/publication/342802476_A_review_of_the_Angolan_House_snakes_genus_Boaedon_Dumeril_Bibron_and_Dumeril_1854_Serpentes_Lamprophiidae_with_description_of_three_new_species_in_the_Boaedon_fuliginosus_Boie_1827_species_complex)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=bocagei)
+
+This short account was written by /u/fairlyorange

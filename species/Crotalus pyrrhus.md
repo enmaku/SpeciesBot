@@ -1,0 +1,13 @@
+Southwestern Speckled Rattlesnakes *Crotalus pyrrhus* are medium-large (58-107cm, record 132cm) moderately stout bodied New World pit vipers that range across parts of the US Southwest (western and central AZ, southeastern NV, and southern CA), into northwestern Sonora and northern Baja California in Mexico. They prefer rocky areas within scrubland, desert, and semi-arid woodland, but may also be found on or near sandy soil.  Their main prey is small mammals and lizards, though small birds are also taken occasionally.
+
+*C. pyrrhus* are a dangerously venomous species and should only be observed from a safe distance.  Common defensive tactics including raising the forebody off the ground and rattling the tail, often while attempting to crawl away from the perceived threat.  They are not aggressive and only bite when they feel they are in danger.  Envenomation is rare and no human fatalities have been recorded for this species.  **The best way to avoid being bitten is to leave the snake alone.**
+
+Their appearance is highly variable.  Background coloration ranges from cream to yellow, tan, orange, pink, brown, grey, pale blue-grey, or black, and is patterned with well speckled, often poorly defined crossbands or elliptical blotches, which are usually darker than the background coloration.  The last few bands on the tail are very dark and may form incomplete rings.
+
+*C. pyrrhus* overlaps in range with several other rattlesnakes.  They are most likley to be confused with  the tiger rattlesnake, *C. tigris*, which can be differentiated by it's small head and banding that remain the same color on the tail, and the Panamint rattlesnake, *C. stephensi*, which is best differentiated by range and subtle scalation details that are most safely discerned via camera or binoculars from a safe distance [(scroll about 1/3rd of the way down)](https://www.birdandhike.com/Wildlife/Snake/Cro_mit/_Cro_mit.htm).
+
+[Range Map](http://www.californiaherps.com/snakes/maps/xcmitchelliispeciesmap3.jpg)  |  [Range Map - California (in red)](http://www.californiaherps.com/snakes/maps/cmitchellimap2.jpg)
+
+[Recent Phylogeography](https://www.researchgate.net/publication/253431708_Genealogical_Concordance_between_Mitochondrial_and_Nuclear_DNAs_Supports_Species_Recognition_of_the_Panamint_Rattlesnake_Crotalus_mitchellii_stephensi)  |  [Additional Information](http://www.californiaherps.com/snakes/pages/c.m.pyrrhus.html)
+
+Short account by /u/fairlyorange

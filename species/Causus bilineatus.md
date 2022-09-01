@@ -1,0 +1,9 @@
+Two-Striped Night Adders *Causus bilineatus* are small-medium (30-50cm, up to 65cm) true vipers that range from western Angola east into northern Zambia and far western Tanzania, with an isolated population in Rwanda, from 725m up to 1,800m above sea level.  They primarily inhabit savanna and savanna-forest mosaic, especially in marshy sections.  Despite the common name, they can be active day or night.  Their main prey is toads and other frogs.
+
+*Causus* night adders generally aren't considered a deadly animal, but are nonetheless dangerously venomous and should only be observed from a distance.  When frightened, individuals might flatten or inflate the body, hiss loudly, and/or strike toward the perceived aggressor.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Two-Striped Night Adders are moderately stout in build, with relatively short, slightly distinct or indistinct heads.  The dorsal scales are weakly keeled and usually arranged in 17 rows at midbody.  Unlike most other viperids, the top of the head is covered with large, plate-like scales.  There are usually 6 (6-7) supralabials, which are separated from the eye by 2 subocular scales.  There is also a loreal scale, 2 preoculars, and 1-2 postoculars.  The anal scale is single, but the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13300996/13300998)  |  [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Viperidae/Causus_bilineatus_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Causus&species=bilineatus)
+
+This short account was written by /u/fairlyorange

@@ -1,0 +1,9 @@
+Senegalese Cobras *Naja senegalensis* are large (130-180cm, up to 245cm) elapids that range from the coast of Senegal and northern Guinea-Bissau east into northern Benin, far southwest Niger, and extreme northwestern Nigeria, from near sea level up to 375m.  They mainly inhabit savanna.  Presumably, they are active day and night.  Known prey items include frogs and snakes, but small mammals, lizards, and, small birds, are probably also eaten.
+
+Dangerously venomous, *N. senegalensis* should only be observed from a safe distance.  When frightened, they often raise the forebody off the ground, spread the neck into a broad hood, hiss loudly, and might strike if the perceived aggressor does not back off.  Some individuals also briefly charge toward the perceived aggressor.  They do not need to spread a hood in order to bite.  Attempting to kill or capture a snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Moderately robust in build, *N. senegalensis* have a short but chunky head, with small to moderately sized eyes, and a pointed snout with enlarged rostral scale.  The dorsal scales are smooth and usually arranged in 25 (23-27) rows at the neck and 21 (21-23) rows at midbody.  There are usually 7 (7-8) supralabials, 1 preocular, and 1-3 postoculars.  A series of 1-3 subocular scales separate the supralabials from the eye.  The anal scale is single and the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13265924/13265927)  |  [Relevant/Recent Phylogeography](https://www.mapress.com/zootaxa/2009/f/zt02236p025.pdf)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Naja&species=senegalensis)
+
+This short account was written by /u/fairlyorange

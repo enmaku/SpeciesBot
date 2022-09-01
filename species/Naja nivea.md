@@ -1,0 +1,9 @@
+Cape Cobras *Naja nivea* are large (120-150cm, up to 230cm) elapids that range from the central Namibian coast east into central Botswana, south through the southern shore of South Africa, from near sea level up to 2,500m above sea level.  They mainly inhabit dry areas, including savanna, scrub, semi-desert, and dry riverbeds.  They are often common around areas of human habitation, even in urban zones.  They are mainly diurnal, but can become crepuscular in hotter weather.  Their primary prey is snakes (including other cape cobras) and rodents, but frogs, lizards, and small birds are also regularly consumed.
+
+Dangerously venomous, *N. nivea* should only be observed from a safe distance.  When frightened, they often raise the forebody off the ground and spread the neck into a broad hood and will strike if the perceived aggressor does not back off.  They do not need to spread a hood in order to bite.  Attempting to kill or capture a snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Slightly slender in build, *N. nivea* have a medium sized head, moderate sized eyes, and a blunt snout.  The dorsal scales are smooth and usually arranged in 21 (19-23) rows at midbody.  There are usually 7 supralabials with the 3rd and 4th in contact with the eye, usually 1 preocular, and usually 3 postoculars.  The anal scale is single and the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/110168750/139749003)  |  [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Elapidae_1/Naja_nivea_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Naja&species=nivea)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/cape-cobra/)
+
+This short account was written by /u/fairlyorange

@@ -1,0 +1,9 @@
+Snouted Night Adders *Causus defilippii* are small (20-35cm, up to 42cm) true vipers that range from southeastern Kenya south to to eastern South Africa, west into western Zimbabwe and southern Zambia from near sea level up to 1,800m.  They primarily inhabit savanna, coastal thicket, and woodland edges, especially near water.  Despite the common name, they can be active day or night.  Their main prey is toads and other frogs.
+
+*Causus* night adders generally aren't considered a deadly animal, but are nonetheless dangerously venomous and should only be observed from a distance.  When frightened, individuals might flatten or inflate the body, hiss loudly, and/or strike toward the perceived aggressor.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Snouted Night Adders are moderately stout in build, with relatively short, slightly distinct or indistinct heads.  The dorsal scales are weakly keeled and usually arranged in 17 rows at midbody.  Unlike most other viperids, the top of the head is covered with large, plate-like scales.  The rostral scale is distinctly upturned, from whence the species earns it's common name.  There are usually 6 (6-7) supralabials, which are separated from the eye by 1-2 subocular scales.  There is also a loreal scale, 1-2 preoculars, and 1-2 postoculars.  The anal scale is single, but the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13301008/13301016)  |  [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Viperidae/Causus_defilippii_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Causus&species=defilippii)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/snouted-night-adder/)
+
+This short account was written by /u/fairlyorange

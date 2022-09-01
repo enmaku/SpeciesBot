@@ -1,0 +1,9 @@
+Common Slug-Eaters *Duberria lutrix* are small (30-35cm, up to 45cm), harmless pseudoxyrhophine snakes that range from north-central Ethiopia south to the southern shores of South Africa, from near sea level to 3,250m.  The range is very fragmented, especially in the north, and some populations like represent distinct, as-yet undescribed species.  They primarily inhabit moist microhabitats within savanna, lowland forest, coastal scrub, and grassland.  They can be common in and around areas of human habitation, where they inhabit parks, yards, gardens, and similar areas.
+
+Primarily diurnal in habit, *D. lutrix* prey almost exclusively on slugs and snails, providing a valuable service to farmers and gardeners.  When threatened, these small and inoffensive snakes rarely bite, but writhe around and emit an unpleasant smelling musk.  Individuals in the southern portion of their range also commonly form a spiral-like coil, with the head hidden in the center when frightened.
+
+Common Slug-Eaters have smooth dorsal scales arranged in 15 rows at midbody.  The head is small and indistinct at the neck, with small eyes.  There are 6 supralabials with the 3rd and 4th in contact with the eye, usually a loreal scale, 1 preocular, and 1 postocular.  The tail is short and ends in a sharp tip.  The anal scale is single and the subcaudals are paired.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Lamprophiidae/Duberria_lutrix_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Duberria&species=lutrix)  |  [Additional Information](https://www.africansnakebiteinstitute.com/snake/common-slug-eater/)
+
+This short account was written by /u/fairlyorange

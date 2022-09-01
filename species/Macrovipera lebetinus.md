@@ -1,0 +1,11 @@
+Blunt-nosed or Levantine Vipers *Macrovipera lebetinus* are large (90-130cm, up to 230cm) true vipers that range from south-central Turkey northeast into southeastern Transcaucasian Russia, east to extreme northwestern India (Jammu & Kashmir), and south into west-central Pakistan, the Persian Gulf in western Iran and eastern Iraq, and western Jordan, from sea level to 2,500m.  A dwarf population also exists on the southwestern Greek Cyclades islands.  Recent attempts to corroborate historical museum records from Northern Africa have failed, and these populations are doubtful.
+
+*M. lebetinus* are a dangerously venomous species and should only be observed from a safe distance.  They are not aggressive and only bite when they feel they are in danger.  Bites most commonly occur when a human attempts to kill, capture, or otherwise intentionally handle the snake.  **The best way to avoid being bitten is to leave the snake alone.**
+
+Blunt-nosed Vipers inhabit open terrain with rocky soils, especially near wetlands and bodies of water, including meadows, rocky slopes, and brushy steppe.  They are sometimes common around areas of human habitation, where they inhabit pastures, stone walls, old ruins, and agricultural areas.  They are largely diurnal, but become nocturnal during the hot weather, and populations from warmer climates can be primarily nocturnal. They prey mostly on small mammals, but birds, lizards, snakes, and insects are sometimes taken.
+
+*M. lebetinus* have keeled scales, usually arranged in 25 rows at midbody.  The [supraocular scale is fragmented, and forms a ring around the eye with other small, circumorbital scales](https://snakeevolution.org/images/MlebHead.png).  They usually have 10-11 supralabials, and usually 3 rows of subocular scales separating them from the eye.  The scales on top of the head are keeled, small, and numerous.  The anal scale is undivided.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Viperidae/Macrovipera_lebetina_map.html)  |  [Relevant/Recent Phylogeography](https://brill.com/view/journals/amre/41/3/article-p285_1.xml?language=en)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Macrovipera&species=lebetinus)
+
+This short account was written by /u/fairlyorange

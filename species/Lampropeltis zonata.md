@@ -1,0 +1,9 @@
+California Mountain Kingsnakes *Lampropeltis zonata* are medium (51-127cm) non-venomous colubrid snakes native to many of the mountain ranges of California and southern Oregon with an additional disjunct population in south-central Washington. Coastal populations in central and southern California formerly known as this taxa are a distinct species, the Coast Mountain Kingsnake *L. multifasciata*.
+
+*Lampropeltis zonata* are primarily diurnal but secretive. Typically found at higher elevations, they favor rocky areas which provide ample ground cover. They mainly prey on lizards and small mammals but may also eat small birds, amphibians, snakes, and eggs.
+
+The dorsal pattern of California Mountain Kingsnakes typically consists of red/orange, black, and white rings that circle the entire body. In some cases, the red bands may be reduced or absent which typically occurs in the Sierra Nevada region. The dorsal scales are smooth and shiny. California Mountain Kingsnakes and their close relative the Coast Mountain Kingsnakes *L. multifasciata* can be differentiated from both sympatric California Kingsnake *L. californiae* as well as other Mountain Kingsnakes outside their range by the presence of a fully black snout.
+
+[Range Map](http://www.californiaherps.com/snakes/maps/xlzonatalmultifasciatamap2.jpg)  |  [Relevant/Recent Phylogeography](https://edwardamyers.files.wordpress.com/2013/10/myers_zonata_2013.pdf)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=zonata)  |  [Additional Information](http://www.californiaherps.com/snakes/pages/l.zonata.html)
+
+This short account was written by /u/pbounds2

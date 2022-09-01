@@ -1,0 +1,7 @@
+Hallowell's House Snakes *Boaedon virgatus* are small-medium sized (40-70cm, up to 92cm), harmless lamprophiid snakes that range from coastal Sierra Leone east into Cameroon, south into northwestern Angola, from near sea level to 1,000m.  Primarily a forest dwelling species, but like many house snakes, can also be common in and around areas of human habitation. Primarily nocturnal in habit, they are powerful constrictors that prey mainly on rodents.  Lizards and small birds are occasionally taken.
+
+Hallowell's House Snakes have smooth, glossy dorsal scales arranged in 23-25 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are moderately large and have vertical pupils.  There are usually 8 supralabials with 4th, 5th, and sometimes the 3rd in contact with the eye, a moderately elongate loreal scale, usually 2 (1-2) preoculars, and 2 postoculars.  The anal scale is single and the subcaudals are paired.
+
+[Range Map](https://www.iucnredlist.org/species/13288837/13288855)  |  [Relevant/Recent Phylogeography](https://www.researchgate.net/publication/342802476_A_review_of_the_Angolan_House_snakes_genus_Boaedon_Dumeril_Bibron_and_Dumeril_1854_Serpentes_Lamprophiidae_with_description_of_three_new_species_in_the_Boaedon_fuliginosus_Boie_1827_species_complex)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=virgatus)
+
+This short account was written by /u/fairlyorange

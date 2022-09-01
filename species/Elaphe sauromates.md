@@ -1,0 +1,9 @@
+Blotched Rat Snakes *Elaphe sauromates* are large (120-140cm, up to 200cm) harmless colubrine snakes that range from southwestern Kazakhstan west to northeastern Bulgaria, south to western Turkey, northern Israel, Caucasian Russia, and northwestern Turkmenistan from sea level to 2,600m.  Southeastern populations have recently been recognized as a separate species, the Urartian Rat Snake *E. urartica*. 
+
+Blotched Rat Snakes chiefly inhabit areas with ample shrubbery and/or rocky outcrops, including steppe, riparian corridors, open woodland, and semi-desert areas especially near water.  They are mainly diurnal and crepuscular in habit.  They are strong climbers and can sometimes be found in trees and shrubs.  Movements tend to be slow and deliberate.  Prey is mainly small mammals, small birds, and bird eggs but lizards are sometimes taken.
+
+Moderately robust in build, *E. sauromates* have a fairly large head with moderately sized eyes.  The dorsal scales are weakly keeled and usually arranged in 25 (23-27) rows at midbody.  The eyes are moderate in size and the head is fairly large.  There are usually 8-9 supralabials, and there is 1-2 preoculars, sometimes a small presubocular (sandwiched in between the anterior part of the eye and supralabials 3 & 4) and 2-3 postoculars.  The anal scale is divided.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Elaphe_sauromates_map.html)  |  [Relevant/Recent Phylogeography](https://peerj.com/articles/6944/)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Elaphe&species=sauromates)
+
+This short account was written by /u/fairlyorange

@@ -1,0 +1,9 @@
+Striped House Snakes *Boaedon lineatus* are medium sized (50-65cm, up to 120cm), lamprophiid snakes that range from the coastal Senegal east into the Democratic Republic of the Congo, and according to some authors, south into central Zambia and northern Angola, from to 100m to 1,700m above sea level.  They inhabit savanna, forest, and are particularly common in disturbed areas, where they occupy agricultural areas, parks, and gardens.
+
+Some populations of *B. lineatus* might represent distinct, as-yet undescribed species.  Several new species have been recognized in recent years, and further research is required to elucidate the range limits between *B. lineatus* and these closely related species.  Primarily nocturnal in habit, they are powerful constrictors and prey mainly on frogs and lizards, but rodents, shrews, and small birds are also taken.  They are often found near homes and buildings, a habit from whence they derive the common name "house snake".
+
+Striped House Snakes have smooth, glossy dorsal scales arranged in 25-35 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are moderately large and have vertical pupils.  There are 8-9 supralabials with the 4th and 5th in contact with the eye, an elongate loreal scale, usually 2 preoculars (1-2), and usually 2 postoculars (1-2).  The anal scale is single and the subcaudals are paired.
+
+[Range Map](https://www.iucnredlist.org/species/13288786/13288798)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=lineatus)
+
+This short account was written by /u/fairlyorange

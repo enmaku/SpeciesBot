@@ -1,0 +1,7 @@
+Striped Sandsnakes *Psammophis sibilans* are medium-large (100-120cm, up to 175cm), mildly venomous, psammophiid snakes that range from the northeastern coast of African Egypt south to the Horn of Africa and northern Kenya, from sea level to 2,500m.  They inhabit a wide variety of grassy and scrubby habitat, usually near water, and frequently occur around areas of human habitation, where they occupy agricultural areas, irrigation canals, ditches, meadows, and gardens.
+
+*P. sibilans* are mildly venomous, rear-fanged snakes; envenomation is uncommon and usually mild, but prolonged, chewing bites should be avoided as a precaution.  They are extraordinarily wary, difficult to approach, and **bites rarely occur unless a snake is intentionally pursued and harassed**.  Diurnal in habit, this active, swift moving, and vision oriented hunters preys opportunistically on small mammals, lizards, snakes, frogs, and small birds.
+
+Striped Sandsnakes have smooth scales arranged in 17 rows at midbody.  The head is narrow and elongate with large eyes.  There are usually 8 supralabials, an elongate loreal, a preocular, and usually 2 postoculars.  The anal scale is divided.
+
+[Range Map](https://www.iucnredlist.org/species/184066/1747190)  |  [Relevant/Recent Phylogeography](https://www.zobodat.at/pdf/Bonner-Zoologische-Beitraege_68_0061-0091.pdf)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Psammophis&species=sibilans)

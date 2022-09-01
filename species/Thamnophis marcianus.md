@@ -1,0 +1,13 @@
+Checkered Gartersnakes *Thamnophis marcianus* are medium sized (50-71cm, record 108.8cm) natricine snakes that range across much of the southwest United States, Mexico, and Central America.  They principally inhabit wetlands, moist meadows and valleys, ditches, riparian corridors, and water bodies within desert and arid grassland.  They can also be common in residential areas.  Their main prey is amphibians, but fish, earthworms, rodents, lizards, and snakes are also consumed.
+
+*Thamnophis* gartersnakes may puff up or flatten out defensively and bite. They secrete a foul smelling substance from the cloaca called musk and can deliver a weak anticoagulant venom used in prey handling from the back of the mouth, but are not considered medically significant to humans - bites just need soap and water.
+
+Checkered Gartersnakes have strongly keeled dorsal scales which are arranged in 21 (US and N MX) or 19 (S MX and Central American) rows at midbody.  There are 8 supralabials and the anal scale is undivided.  The positioning of the lateral stripes on scale row 3 anteriorly (sometimes obscure in populations from southern MX and Central America) helps distinguish them from sympatric gartersnakes.
+
+Most *Thamnophis* gartersnakes can have checkerboard-like spots, leading to frequent misidentification as "checkered garter snakes" in online comment sections.  *T. marcianus*, however, usually have large and prominent checkerboard spots which are often rectangular or squarish in shape, though these are sometimes reduced or absent in the Yucatan Peninsula.  This genus is in need of revision using modern molecular methods.  Preliminary genetic data indicates that some populations of *T. marcianus* might represent distinct, as-yet undescribed species (see Phylogeography links below).
+
+Those who call *Storeria dekayi* "a Dekay's", have to call this snake "a Marcy's".
+
+[Range Map - © Rune Midtgaard](http://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Thamnophis_marcianus_map.html)  |  [Range Map (US and N MX)](http://www.californiaherps.com/snakes/maps/xtmarcianusspeciesmap3.jpg)  |  [Relevant/Recent Phylogeography 1](http://www.snakeevolution.org/pdfs/Myers_et_al-2016-Journal_of_Biogeography.pdf)  |  [Relevant/Recent Phylogeography 2](https://edwardamyers.files.wordpress.com/2019/08/myers_etal_2019.pdf)  |  [CAHerps Link](http://www.californiaherps.com/snakes/pages/t.m.marcianus.html)
+
+This short account was prepared by /u/fairlyorange and edited by /u/Phylogenizer.

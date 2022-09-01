@@ -1,0 +1,9 @@
+Green Night Adders *Causus resimus* are small-medium (30-60cm, up to 75cm) true vipers with a disjunct range from eastern Nigeria east to southeastern Somalia, south into western Tanzania and western Angola, from near sea level up to 2,100m above sea level.  They primarily inhabit savanna, woodland, and coastal thicket, especially near water.  Despite the common name, they tend to be more active during the day.  Their main prey is toads and other frogs.
+
+*Causus* night adders generally aren't considered a deadly animal, but are nonetheless dangerously venomous and should only be observed from a distance.  When frightened, individuals might flatten or inflate the body, hiss loudly, and/or strike toward the perceived aggressor.  Attempting to kill or capture the snake dramatically increases the risk of being bitten.  **The best way to avoid being bitten is to leave the snake alone.**
+  
+Green Night Adders are moderately stout in build, with relatively short, slightly distinct or indistinct heads, with a slightly upturned snout.  The dorsal scales are smooth or weakly keeled and usually arranged in 19 rows at midbody.  Unlike most other viperids, the top of the head is covered with large, plate-like scales.  There are usually 7 (6-7) supralabials, which are separated from the eye by 1-2 subocular scales.  There is a loreal scale, 2 preoculars, and 1-2 postoculars.  The anal scale is single and the subcaudals are divided.
+
+[Range Map](https://www.iucnredlist.org/species/13300970/13300979)  |  [Alternative Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Viperidae/Causus_resimus_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Causus&species=resimus)
+
+This short account was written by /u/fairlyorange

@@ -1,0 +1,7 @@
+The Common Wormsnake *Carphophis amoenus* is a small (record 33.5 cm), harmless, dipsadine snake found in the Eastern United States. A closely related species, the Western Worm Snake *Carphophis vermis* occurs west of the Mississippi River. This snake generally inhabits woodlands and edge habitat. Despite being abundant over much of their range, they are rarely encountered due to their secretive nature and semifossorial habits. Wormsnakes spend most of their time underground or otherwise under such ground cover as logs, rocks, or leaf litter. It’s most likely to be seen crossing paved roads, particularly following heavy rain. It feeds primarily on earthworms but will also eat other small, soft-bodied invertebrates.Eastern worm snakes are typically patternless, with a brown dorsum and white or pink underside. They have smooth scales and a small, slender head. The tail is short and terminates in a sharp, spine-like scale. This is a docile species that rarely attempts to bite.They more likely to emit a foul-smelling discharge called “musk” and attempt to escape. If seized, they may also jab their captor with their tail spine, which is harmless.
+
+[Range Map](https://www.iucnredlist.org/species/63738/12712149) | [Reptile Database
+Account](https://reptile-database.reptarium.cz/species?genus=Carphophis&species=amoenus)
+| [Additional Information](https://www.virginiaherpetologicalsociety.com/reptiles/snakes/eastern-wormsnake/eastern_worm_snake.php)
+
+This short account was written by /u/abks

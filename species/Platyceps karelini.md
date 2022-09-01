@@ -1,0 +1,9 @@
+Spotted Desert Racers *Platyceps karelini* are medium sized (~80cm, up to 117cm), harmless colubrid snakes that range from the Caspian coast of southern Kazakhstan east into extreme northwestern Turkmenistan, south into west-central Pakistan and central Iran, from sea level to over 2200m, perhaps higher.  A second population ranging from extreme southern Turkey and central Syria southeast into east-central Iraq and western Iran is considered a separate species, *P. chesneii*, by some authors, but this requires more evidence to confirm.
+ 
+*P. karelini* are morphologically and ecologically similar to *P. ventromaculatus* replacing that species to the west. They occupy mostly dry, rocky areas, including hillsides, semi-desert steppe, scrubby sand dunes, and oases.  They can also be common near areas of human habitation, where they inhabit canals and old ruins.  They are largely diurnal, but will switch to crepuscular or nocturnal activity during the hottest months.  They are active, swift-moving, and vision oriented hunters whose main prey is lizards and small mammals.
+
+Spotted Desert Racers have smooth scales arranged in 19 rows at midbody.  The head is moderate in size the eyes are large.  There are usually 9 supralabials, usually with only the 5th in contact with the eye, along with a loreal scale, one large preocular, a small presubocular (sometimes cleaved anteriorly), a posterior subocular, and 2 postoculars.  The anal scale is divided.
+
+[Range Map - © Rune Midtgaard](https://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Platyceps_karelini_map.html)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Platyceps&species=karelini)
+
+This short account was written by /u/fairlyorange

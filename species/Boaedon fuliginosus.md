@@ -1,0 +1,9 @@
+Sooty House Snakes *Boaedon fuliginosus* are medium sized (40-70cm, up to 120cm), lamprophiid snakes that range from the southern coast of Mauritania east to northern Ethiopia and Somalia, south into Angola and extreme northern Mozambique, from near sea level to 2,150m.  Some authors restrict their range to western Africa.  They are found in a wide variety of natural and disturbed habitat, but are probably most common in areas of human habitation, even in urban zones, where they occupy agricultural areas, parks, and gardens.  They are absent from extensive closed canopy forest and montane zones.
+
+A large and confusing species complex, many populations of *B. fuliginosus*, especially those in eastern Africa, likely represent distinct, but as-yet undescribed species.  Several new species have been recognized in recent years, and further research is required to elucidate the range limits between *B. fuliginosus* and these closely related species.  Primarily nocturnal in habit, they are powerful constrictors and prey mainly on rodents and lizards, but small birds, snakes, and frogs are also taken.  They often wander indoors of search of rodents, a habit from whence they derive the common name "house snake".
+
+Sooty House Snakes have smooth, glossy dorsal scales arranged in 25-35 rows at midbody.  The head is shaped similarly to those of pythons; distinct at the neck and tapering toward the snout.  The eyes are moderately large and have vertical pupils.  There are 8-9 supralabials with the 4th and 5th in contact with the eye, an elongate loreal scale, usually 2 preoculars (1-2), and usually 2 postoculars (1-2).  The anal scale is single and the subcaudals are paired.
+
+[Range Map](https://www.iucnredlist.org/species/183198/1733326)  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Boaedon&species=fuliginosus)
+
+This short account was written by /u/fairlyorange
