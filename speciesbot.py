@@ -1,8 +1,6 @@
 import praw
 import config
 import time
-import os
-import requests
 import re
 import traceback
 from datetime import datetime
@@ -39,12 +37,11 @@ def bot_login():
 def checkComment(comment):
 	if comment.saved or comment.author == r.user.me() or datetime.utcfromtimestamp(comment.created_utc) < startTime:
 		return
-	bldr = [] # create an empty array
-
+	bldr = []
 
 	for species in specieslist:
 		if "*" + species + "*" in comment.body:
-			print("String with \"+ species""\" found in comment " + comment.id)
+			print("String with " + species + " found in comment " + comment.id)
 			with open("species/" + species + ".txt", "r") as f:
 				comment_reply = f.read()
 				bldr.append(comment_reply)
@@ -53,10 +50,10 @@ def checkComment(comment):
 	for command in commands:
 		if "!" + command['command'] in comment.body:
 			print("!" + command['command'] + " found in comment " + comment.id)
-			bldr.append(command['text']) ##was comment.reply(command['text'] + "\n\n" + sig)
-	if len(bldr): # if we have appended anything to bldr
-		bldr.append(sig) # add the signature at the end
-		comment.reply("\n\n--------------------------------------------------------\n\n".join(bldr)) # take each of the replies we put in the list, separate them with the double newline, and reply to the comment
+			bldr.append(command['text']) 
+	if len(bldr): 
+		bldr.append(sig) 
+		comment.reply(body="\n\n--------------------------------------------------------\n\n".join(bldr))
 	comment.save()
 
 
@@ -76,7 +73,7 @@ def run_bot(r):
 			break
 
 		if len(re.findall('\[.+\]', submission.title)) == 0:
-			submission.reply("It looks like you didn't provide a rough geographic location [in square brackets] in your title. "
+			submission.reply(body="It looks like you didn't provide a rough geographic location [in square brackets] in your title. "
 			                 "Some species are best distinguishable from each other by geographic range, and not all "
 			                 "species live all places. Providing a location allows for a quicker, more accurate ID."
 			                 + "\n\n" + "If you provided a location but forgot the correct brackets, ignore this message "
@@ -84,7 +81,7 @@ def run_bot(r):
 			print("Replied to submission " + submission.id)
 
 		if submission.link_flair_text == "Dead":
-			submission.reply("This automatic message accompanies any image of a dead, injured or roadkilled animal"
+			submission.reply(body="This automatic message accompanies any image of a dead, injured or roadkilled animal"
                     + "\n\n" + sig)
 			print("Replied to Dead Animal flair - " + submission.id)
 
@@ -95,7 +92,7 @@ def run_bot(r):
 			break
 
 		if submission.link_flair_text == "Trap":
-			submission.reply("That flair is a trap meant to catch people posting off-topic things!" + "\n\n" + sig)
+			submission.reply(body="That flair is a trap meant to catch people posting off-topic things!" + "\n\n" + sig)
 			print("Replied to Trap flair - " + submission.id)
 
 		submission.save()
