@@ -13,10 +13,11 @@ list_of_names = ["enmaku", "modestmenagerie"]
 subreddits = ["speciesbot_testing"]
 sig = "*I am a bot created to help with animal identification and natural history education."
 
-commands = [
-	{'command': "commandword", 'text': "This will be the reply when !commandword is typed"},
-	{'command': "commandword2", 'text': "Another example, with !commandword2"}
-]
+commands = []
+for filename in os.listdir('commands'):
+	with open(os.path.join('commands', filename), "r") as f:
+		commandtext = f.read()
+		commands.append({'command': Path(filename).stem, 'text': commandtext})
 
 specieslist = []
 for filename in os.listdir('species'):
