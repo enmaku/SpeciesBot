@@ -58,16 +58,18 @@ def checkComment(comment):
 
 
 def run_bot(r):
-	print("Obtaining 10 comments...")
 
+	print("Checking reliable responders...")
 	for username in list_of_names: #Check comments of reliable responders first
 		user = r.redditor(username)
 		for comment in user.comments.new(limit=10):
 			checkComment(comment)
 
+	print("Checking subreddit comments...")
 	for comment in r.subreddit(subreddits).comments(limit=10): #Check comments in patrolled subreddits
 		checkComment(comment)
 
+	print("Checking subreddit posts...")
 	for submission in r.subreddit(subreddits).new(limit=10): #Check posts in patrolled subreddits
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
 			break
@@ -84,16 +86,6 @@ def run_bot(r):
 			submission.reply(body="This automatic message accompanies any image of a dead, injured or roadkilled animal"
                     + "\n\n" + sig)
 			print("Replied to Dead Animal flair - " + submission.id)
-
-		submission.save()
-		
-	for submission in r.subreddit(subreddits).new(limit=10): #Check for trap flairs
-		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
-			break
-
-		if submission.link_flair_text == "Trap":
-			submission.reply(body="That flair is a trap meant to catch people posting off-topic things!" + "\n\n" + sig)
-			print("Replied to Trap flair - " + submission.id)
 
 		submission.save()
 
