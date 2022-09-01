@@ -45,7 +45,7 @@ def checkComment(comment):
 	for species in specieslist:
 		if "*" + species + "*" in comment.body:
 			print("String with \"+ species""\" found in comment " + comment.id)
-			with open(species + ".txt", "r") as f:
+			with open("species/" + species + ".txt", "r") as f:
 				comment_reply = f.read()
 				bldr.append(comment_reply)
 				print("Replied to comment " + comment.id)
@@ -63,15 +63,15 @@ def checkComment(comment):
 def run_bot(r):
 	print("Obtaining 10 comments...")
 
-	for username in list_of_names:
+	for username in list_of_names: #Check comments of reliable responders first
 		user = r.redditor(username)
 		for comment in user.comments.new(limit=10):
 			checkComment(comment)
 
-	for comment in r.subreddit('speciesbot_testing').comments(limit=10): ###'whatsthissnake+herpetology+snakes'
+	for comment in r.subreddit('speciesbot_testing').comments(limit=10): #Check comments in patrolled subreddits
 		checkComment(comment)
 
-	for submission in r.subreddit('whatsthissnake').new(limit=10): ##change to test 'whatsthissnake'
+	for submission in r.subreddit('speciesbot_testing').new(limit=10): #Check posts in patrolled subreddits
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
 			break
 
@@ -83,32 +83,20 @@ def run_bot(r):
 			                            "until your next submission. Thanks!" + "\n\n" + sig)
 			print("Replied to submission " + submission.id)
 
-		if submission.link_flair_text == "Dead, Injured or Roadkilled Snake":
-			submission.reply("This automatic message accompanies any image of a dead, injured or roadkilled snake: " + "\n\n" +
-			                 "Please don't kill snakes - they are a natural part of the ecosystem and [even species that "
-			                 "use venom for prey acquisition and defense are beneficial to humans]"
-			                 "(https://web.archive.org/web/20180802190346/https://umdrightnow.umd.edu/news/timber-rattlesnakes-vs-lyme-disease). One cannot expect "
-			                 "outside to be sterile - if you see a snake you're in or around their preferred habitat. "
-			                 "Most snakes are valued and as such are protected from collection, killing or harassment "
-			                 "as non-game animals at the state level.\n\n[Neighborhood dogs]"
-			                 "(http://livingalongsidewildlife.com/?p=3141) "
-			                 "are more likely to harm people. Professional snake relocation services are often free or "
-			                 "inexpensive, but snakes often die trying to return to their original home range, so it is "
-			                 "usually best to enjoy them like you would songbirds or any of the other amazing wildlife "
-			                 "native to your area. Commercial snake repellents are not effective - to discourage snakes, "
-			                 "eliminate sources of food and cover; clear debris, stacked wood and eliminate rodent "
-			                 "populations. Seal up cracks in and around the foundation/base of your home." + "\n\n" + sig)
-			print("Replied to Dead Snake flair - " + submission.id)
+		if submission.link_flair_text == "Dead":
+			submission.reply("This automatic message accompanies any image of a dead, injured or roadkilled animal"
+                    + "\n\n" + sig)
+			print("Replied to Dead Animal flair - " + submission.id)
 
 		submission.save()
 		
-	for submission in r.subreddit('Herpetology').new(limit=10): ##change to test 'whatsthissnake'
+	for submission in r.subreddit('speciesbot_testing').new(limit=10): ##change to test 'whatsthissnake'
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
 			break
 
-		if submission.link_flair_text == "Herpetoculture":
-			submission.reply("Herpetology is the study of reptiles and amphibians. This post has been marked by the original poster as herpetoculture, which is the keeping of reptiles and amphibians in captivity. Herpetoculture posts are not suitable for /r/Herpetology and your post will be removed shortly. There are many suitable locations to post a pet or ask for pet care help, including /r/Herpetoculture and /r/Reptiles" + "\n\n" + "If you applied this flair in error, for example to a photo of an animal in the wild, please clear it." + "\n\n" + sig)
-			print("Replied to Herpetoculture flair - " + submission.id)
+		if submission.link_flair_text == "Trap":
+			submission.reply("That flair is a trap meant to catch people posting off-topic things!" + "\n\n" + sig)
+			print("Replied to Trap flair - " + submission.id)
 
 		submission.save()
 
