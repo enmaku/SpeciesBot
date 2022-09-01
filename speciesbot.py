@@ -24,7 +24,7 @@ commands = []
 for filename in os.listdir("commands"):
 	with open(os.path.join("commands", filename), "r") as f:
 		commandtext = f.read()
-		commands.append({"command": Path(filename).stem, "text": commandtext})
+		commands.append(Path(filename).stem)
 
 specieslist = []
 for filename in os.listdir("species"):
@@ -57,8 +57,10 @@ def checkComment(comment):
 
 	for command in commands:
 		if "!" + command["command"] in comment.body:
-			print("!" + command["command"] + " found in comment " + comment.id)
-			bldr.append(command["text"]) 
+			with open("commands/" + command + ".md", "r") as f:
+				comment_reply = f.read()
+				bldr.append(comment_reply)
+			print("!" + command + " found in comment " + comment.id)
 	if len(bldr): 
 		bldr.append(sig) 
 		comment.reply(body="\n\n--------------------------------------------------------\n\n".join(bldr))

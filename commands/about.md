@@ -26,7 +26,7 @@ PS - I am written in Python.
 
 **!myths** - Provides a list of common snake myths ( in development - send me your favorite with a high quality link to a source refuting it and I'll put it in!)
 
-**!poisonous** or **!venomous** - Provides information on the definitions of venomous and poisonous as they relate to snakes 
+**!poisonous** or **!venomous** - Provides information on the definitions of venomous and poisonous as they relate to snakes
 
 **!keels** - Provides information on snake scale architecture.
 
@@ -42,7 +42,7 @@ PS - I am written in Python.
 
 **!location** - Invokes the 'location needed' message from the auto response on /r/whatsthissnake
 
-**!wildpet** - Provides information on why keeping wild snakes as pets isn't usually a good idea, even if they come from a pet store. 
+**!wildpet** - Provides information on why keeping wild snakes as pets isn't usually a good idea, even if they come from a pet store.
 
 **!aggressive** or **!defensive** - Rebuttal to the commonly misunderstood defensive posturing in snakes.
 

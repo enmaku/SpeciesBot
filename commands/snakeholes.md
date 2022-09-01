@@ -1,0 +1,1 @@
+Snakes do not typically dig their own permanent burrows, tunnels or holes, instead using burrows from other animals or existing spaces between substrate. Snakes enter burrows and consume residents but the idea of a 'snake hole' is mostly a myth.

@@ -1,0 +1,3 @@
+While effective in some applications, glue traps generally shouldn't be used outside or in garages, as by-catch of snakes and other harmless animals is difficult to avoid.
+
+Snakes stuck to glue traps are not always a lost cause and can be removed with mild cooking oil such as olive oil or lard. While applying more oil as you go, slowly and gently start with the tail and work your way forward. This should not be attempted by a novice on a venomous snake. Remember to use caution even with nonvenomous species - these animals do not understand your good intentions and will be exhausted, dehydrated and scared. They may try to bite you or themselves in self defense. This advice also applies to many common tape adhesives.

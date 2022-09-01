@@ -1,0 +1,1 @@
+The term used for wild venomous snakes is 'venomous'. Across species, strength of venom is a spectrum, and delivery method is also quite variable. The term 'hot' is pet trade slang and isn't used in biology.

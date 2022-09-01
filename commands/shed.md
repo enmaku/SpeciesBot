@@ -1,0 +1,5 @@
+Snakes are identifiable from intact shed skins, but it takes some time and the correct knowledge.
+
+If you're in North America, a basic guide to shed identification can be found [here](http://snakesarelong.blogspot.com/2012/11/identifying-snake-sheds-part-iii.html), but the people of /r/whatsthissnake will help if you post clear photos of the head, vent and midbody. 
+
+ Get a clear, focused photo of the complete dorsal surface ([like this](https://4.bp.blogspot.com/-iuEVOu2oO9M/UJ6X2U6hckI/AAAAAAAAMQo/sHFveKzsAhA/s1600/dorsal+scale+rows+KJ.png)) about 1/3 of the way down the body so we can count scale rows and see the pattern, scale texture, and other details. This may be easiest if you cut out a section, then cut through the middle of the belly scales. If present, also get a clear, focused photo of the anal plate ([like this](https://3.bp.blogspot.com/-I-bmJVGVARw/UJ6JQYFasMI/AAAAAAAAMO8/sV8ZOBQOCEQ/s1600/Fullscreen+capture+8252012+124346+PM.bmp.jpg)).

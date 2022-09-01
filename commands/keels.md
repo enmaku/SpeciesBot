@@ -1,0 +1,3 @@
+Keels are raised lines on the surface of scales that can be used as a character in snake identification to quickly narrow down options or distinguish between some similar looking species. Strength of keel is variable; usually referred to as 'strong' vs 'weak'.
+
+You can read more about snake color patterns and scale architecture [here](https://www.floridamuseum.ufl.edu/herpetology/fl-snakes/color-pattern/).

@@ -1,0 +1,1 @@
+Some species are best distinguishable from each other by geographic range, and not all species live all places. Providing a rough geographic location like county or closest city allows for quicker, accurate identification. Thanks!
