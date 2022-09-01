@@ -2,5 +2,3 @@ username = "YOUR BOT NAME HERE LOWERCASE"
 password = "YOUR PASSWORD"
 client_id = "YOUR CLIENT ID FROM REDDIT"
 client_secret = "SECRET CLIENT CODE FROM REDDIT"
-names = ["user1", "user2"]
-subreddits = ["subreddit1", "subreddit2"]

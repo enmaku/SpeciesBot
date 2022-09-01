@@ -1,14 +1,16 @@
 import praw
 import config
 import time
+import os
+from pathlib import Path
 import re
 import traceback
 from datetime import datetime
 
 startTime = datetime.utcnow()
 
-list_of_names = config.names
-subreddits = "+".join(config.subreddits)
+list_of_names = ["enmaku", "modestmenagerie"]
+subreddits = ["speciesbot_testing"]
 sig = "*I am a bot created to help with animal identification and natural history education."
 
 commands = [
@@ -16,8 +18,9 @@ commands = [
 	{'command': "commandword2", 'text': "Another example, with !commandword2"}
 ]
 
-with open('species/species.txt', 'r') as filehandle:
-    specieslist = filehandle.readlines()
+specieslist = []
+for filename in os.listdir('species'):
+    specieslist.append(Path(filename).stem)
 
 def bot_login():
 	print("Logging in...")
