@@ -6,6 +6,8 @@ from pathlib import Path
 import re
 import traceback
 from datetime import datetime
+import threading
+thread_lock = threading.Lock()
 
 startTime = datetime.utcnow()
 
@@ -43,45 +45,51 @@ def bot_login():
 
 
 def checkComment(comment):
-	if comment.saved or comment.author == r.user.me() or datetime.utcfromtimestamp(comment.created_utc) < startTime:
-		return
-	bldr = []
+	with thread_lock:
+		if comment.saved or comment.author == r.user.me() or datetime.utcfromtimestamp(comment.created_utc) < startTime:
+			return
+		bldr = []
 
-	for species in specieslist:
-		if "*" + species + "*" in comment.body:
-			print("String with " + species + " found in comment " + comment.id)
-			with open("species/" + species + ".md", "r") as f:
-				comment_reply = f.read()
-				bldr.append(comment_reply)
-				print("Replied to comment " + comment.id)
+		for species in specieslist:
+			if "*" + species + "*" in comment.body:
+				print("String with " + species + " found in comment " + comment.id)
+				with open("species/" + species + ".md", "r") as f:
+					comment_reply = f.read()
+					bldr.append(comment_reply)
+					print("Replied to comment " + comment.id)
 
-	for command in commands:
-		if "!" + command in comment.body:
-			with open("commands/" + command + ".md", "r") as f:
-				comment_reply = f.read()
-				bldr.append(comment_reply)
-			print("!" + command + " found in comment " + comment.id)
-	if len(bldr): 
-		bldr.append(sig) 
-		comment.reply(body="\n\n--------------------------------------------------------\n\n".join(bldr))
-	comment.save()
+		for command in commands:
+			if "!" + command in comment.body:
+				with open("commands/" + command + ".md", "r") as f:
+					comment_reply = f.read()
+					bldr.append(comment_reply)
+				print("!" + command + " found in comment " + comment.id)
+		if len(bldr): 
+			bldr.append(sig) 
+			comment.reply(body="\n\n--------------------------------------------------------\n\n".join(bldr))
+		comment.save()
 
-
-def run_bot(r):
-
-	# Check reliable responder comments
+def reliable_responders(r):
+    # Check reliable responder comments
 	print("Checking reliable responders...")
 	for username in list_of_names: 
 		user = r.redditor(username)
 		for comment in user.comments.new(limit=10):
 			checkComment(comment)
+	print("Reliable responders check complete.")
 
-	# Check subreddit comments
+
+def subreddit_comments(r):
+    # Check subreddit comments
 	print("Checking subreddit comments...")
 	for comment in r.subreddit(subreddits).comments(limit=10):
 		checkComment(comment)
+	print("Subreddit comments check complete.")
 
-	# Subreddit-specific rules
+
+def subreddit_rules(r):
+    # Subreddit-specific rules
+	print("Checking subreddit-specific rules...")
 	for submission in r.subreddit("whatsthissnake").new(limit=10):
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
 			break
@@ -125,6 +133,18 @@ def run_bot(r):
 			print("Replied to Herpetoculture flair - " + submission.id)
 
 		submission.save()
+	print("Subreddit-specific rules check complete.")
+    
+    
+def run_bot(r):
+	threads = []
+	threads[0] = threading.Thread(target=reliable_responders, args=(r,))
+	threads[1] = threading.Thread(target=subreddit_comments, args=(r,))
+	threads[2] = threading.Thread(target=subreddit_rules, args=(r,))
+	for thread in threads:
+		thread.start()
+	for thread in threads:
+		thread.join()
 
 
 r = bot_login()
