@@ -38,7 +38,8 @@ def bot_login():
 	                password=config.password,
 	                client_id=config.client_id,
 	                client_secret=config.client_secret,
-	                user_agent="speciesbot v0.1")
+	                user_agent="speciesbot v0.1",
+                 	ratelimit_seconds=600)
 	print("Logged in!")
 
 	return r
