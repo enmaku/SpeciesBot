@@ -15,7 +15,7 @@ list_of_names = []
 with open("reliable.txt", "r") as f:
     list_of_names = f.read().splitlines()
 
-subreddits = []
+subreddits = ""
 with open("subreddits.txt", "r") as f:
     subreddits = "+".join(f.read().splitlines())
 
@@ -136,16 +136,18 @@ def subreddit_rules(r):
 	print("Subreddit-specific rules check complete.")
     
     
-def run_bot(r):
+def run_bot(r):	
 	threads = []
-	threads[0] = threading.Thread(target=reliable_responders, args=(r,))
-	threads[1] = threading.Thread(target=subreddit_comments, args=(r,))
-	threads[2] = threading.Thread(target=subreddit_rules, args=(r,))
+	threads.append(threading.Thread(target=reliable_responders, args=(r,)))
+	threads.append(threading.Thread(target=subreddit_comments, args=(r,)))
+	threads.append(threading.Thread(target=subreddit_rules, args=(r,)))
 	for thread in threads:
 		thread.start()
 	for thread in threads:
 		thread.join()
 
+# subreddits = "speciesbot_testing"
+# list_of_names = ["modestmenagerie", "enmaku"]
 
 r = bot_login()
 
