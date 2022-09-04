@@ -46,11 +46,11 @@ def bot_login():
 
 
 def checkComment(comment):
+	if comment.saved or comment.author == r.user.me() or datetime.utcfromtimestamp(comment.created_utc) < startTime:
+		return
+	bldr = []
+ 
 	with thread_lock:
-		if comment.saved or comment.author == r.user.me() or datetime.utcfromtimestamp(comment.created_utc) < startTime:
-			return
-		bldr = []
-
 		for species in specieslist:
 			if "*" + species + "*" in comment.body:
 				print("String with " + species + " found in comment " + comment.id)
