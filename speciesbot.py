@@ -88,8 +88,8 @@ def subreddit_comments(r):
 	print("Subreddit comments check complete.")
 
 
-def subreddit_rules(r):
-    # Subreddit-specific rules
+def subreddit_post_rules(r):
+    # Subreddit-specific post rules
 	print("Checking subreddit-specific rules...")
 	for submission in r.subreddit("whatsthissnake").new(limit=10):
 		if submission.saved or submission.author == r.user.me() or datetime.utcfromtimestamp(submission.created_utc) < startTime:
@@ -141,7 +141,7 @@ def run_bot(r):
 	threads = []
 	threads.append(threading.Thread(target=reliable_responders, args=(r,)))
 	threads.append(threading.Thread(target=subreddit_comments, args=(r,)))
-	threads.append(threading.Thread(target=subreddit_rules, args=(r,)))
+	threads.append(threading.Thread(target=subreddit_post_rules, args=(r,)))
 	for thread in threads:
 		thread.start()
 	for thread in threads:
