@@ -145,6 +145,7 @@ def run_bot(r):
 		threads.append(threading.Thread(target=subreddit_comments, args=(r,)))
 	if config.subreddit_rules:
 		threads.append(threading.Thread(target=subreddit_post_rules, args=(r,)))
+  
 	for thread in threads:
 		thread.start()
 	for thread in threads:
