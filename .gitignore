@@ -131,5 +131,4 @@ dmypy.json
 # Bot configuration files
 config.py
 reliable.txt
-requirements.txt
 subreddits.txt
