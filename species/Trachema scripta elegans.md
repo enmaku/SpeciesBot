@@ -9,3 +9,5 @@ Red-eared sliders are commonly sold as babies, which can be just a few inches ac
 Native to the Mississippi river, Gulf of Mexico, and much of the southeastern United States, sliders can be found anywhere there is calm water, abundant aquatic plant life, and somewhere to bury their eggs. This unfortunately now includes non-native locales such as Bermuda, Canada, Australia, Europe, Great Britain, South Africa, the Caribbean isands, Israel, Bahrain, the Mariana islands, Guam, as well as southern and eastern Asia.
 
 Because of their extreme invasive nature, red-eared sliders are outlawed or banned in many jurisdictions. Always consult the appropriate laws before importing, exporting, or purchasing such an animal, and never release any captive animal into the wild.
+
+This account was prepared by /u/ModestMenagerie
