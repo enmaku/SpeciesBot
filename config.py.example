@@ -2,3 +2,6 @@ username = "YOUR BOT NAME HERE LOWERCASE"
 password = "YOUR PASSWORD"
 client_id = "YOUR CLIENT ID FROM REDDIT"
 client_secret = "SECRET CLIENT CODE FROM REDDIT"
+reliable_responders = True
+subreddit_comments = True
+subreddit_rules = True
