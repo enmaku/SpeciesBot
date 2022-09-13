@@ -7,6 +7,7 @@ import re
 import traceback
 from datetime import datetime
 import threading
+import urllib
 
 thread_lock = threading.Lock()
 
@@ -80,6 +81,16 @@ def checkComment(comment):
 					comment_reply = f.read()
 					bldr.append(comment_reply)
 				print("!" + command + " found in comment " + comment.id)
+		if "!account" in comment.body:
+			account = comment.body.strip().replace("!account ", "").capitalize()
+			print("Account URL requested for " + account)
+			if os.path.exists("species/" + account + ".md"):
+				url = "https://github.com/enmaku/SpeciesBot/edit/main/species/" + urllib.parse.quote(account) + ".md"
+				bldr.append("It looks like an account for that species already exists.\n\n[Click Here](" + url + ") to edit it.")
+			else:
+				url = "https://github.com/enmaku/SpeciesBot/new/main?filename=species/" + urllib.parse.quote(account) + ".md"
+				bldr.append("A record for that species does not appear to exist.\n\n[Click Here](" + url + ") to create it.")
+			bldr.append("\n\nPlease note that you may need to create a (free) GitHub account in order to finalize your submission.")
 		if len(bldr): 
 			bldr.append(sig) 
 			comment.reply(body="\n\n--------------------------------------------------------\n\n".join(bldr))
