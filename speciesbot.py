@@ -7,7 +7,6 @@ import re
 import traceback
 from datetime import datetime
 import threading
-import timeit
 
 thread_lock = threading.Lock()
 
