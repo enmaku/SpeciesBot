@@ -39,7 +39,6 @@ def load_data():
 
 	for filename in os.listdir("commands"):
 		with open(os.path.join("commands", filename), "r") as f:
-			commandtext = f.read()
 			commands.append(Path(filename).stem)
 
 	for filename in os.listdir("species"):
@@ -68,28 +67,28 @@ def checkComment(comment):
  
 	with thread_lock:
 		for species in specieslist:
-			if "*" + species + "*" in comment.body:
-				print("String with " + species + " found in comment " + comment.id)
-				with open("species/" + species + ".md", "r") as f:
+			if f"*{species}*" in comment.body:
+				print(f"String with {species} found in comment {comment.id}")
+				with open(f"species/{species}.md", "r") as f:
 					comment_reply = f.read()
 					bldr.append(comment_reply)
-					print("Replied to comment " + comment.id)
+					print(f"Replied to comment {comment.id}")
 
 		for command in commands:
 			if "!" + command in comment.body:
-				with open("commands/" + command + ".md", "r") as f:
+				with open(f"commands/{command}.md", "r") as f:
 					comment_reply = f.read()
 					bldr.append(comment_reply)
-				print("!" + command + " found in comment " + comment.id)
+				print(f"!{command} found in comment {comment.id}")
 		if "!account" in comment.body:
 			account = comment.body.strip().replace("!account ", "").capitalize()
 			print("Account URL requested for " + account)
 			if os.path.exists("species/" + account + ".md"):
-				url = "https://github.com/enmaku/SpeciesBot/edit/main/species/" + urllib.parse.quote(account) + ".md"
-				bldr.append("It looks like an account for that species already exists.\n\n[Click Here](" + url + ") to edit it.")
+				url = f"https://github.com/enmaku/SpeciesBot/edit/main/species/{urllib.parse.quote(account)}.md"
+				bldr.append(f"It looks like an account for that species already exists.\n\n[Click Here]({url}) to edit it.")
 			else:
-				url = "https://github.com/enmaku/SpeciesBot/new/main?filename=species/" + urllib.parse.quote(account) + ".md"
-				bldr.append("A record for that species does not appear to exist.\n\n[Click Here](" + url + ") to create it.")
+				url = f"https://github.com/enmaku/SpeciesBot/new/main?filename=species/{urllib.parse.quote(account)}.md"
+				bldr.append(f"A record for that species does not appear to exist.\n\n[Click Here]({url}) to create it.")
 			bldr.append("\n\nPlease note that you may need to create a (free) GitHub account in order to finalize your submission.")
 		if len(bldr): 
 			bldr.append(sig) 
@@ -123,30 +122,30 @@ def subreddit_post_rules(r):
 
 		# r/whatisthissnake posts require a [location]
 		if len(re.findall("\[.+\]", submission.title)) == 0:
-			submission.reply("It looks like you didn't provide a rough geographic location [in square brackets] in your title. "
-			                 "Some species are best distinguishable from each other by geographic range, and not all "
-			                 "species live all places. Providing a location allows for a quicker, more accurate ID."
-			                 + "\n\n" + "If you provided a location but forgot the correct brackets, ignore this message "
-			                            "until your next submission. Thanks!" + "\n\n" + sig)
-			print("Replied to submission " + submission.id)
+			submission.reply(f"It looks like you didn't provide a rough geographic location [in square brackets] in your title. "
+			                 f"Some species are best distinguishable from each other by geographic range, and not all "
+			                 f"species live all places. Providing a location allows for a quicker, more accurate ID."
+			                 f"\n\nIf you provided a location but forgot the correct brackets, ignore this message "
+							 f"until your next submission. Thanks!\n\n{sig}")
+			print(f"Replied to submission {submission.id}")
 
 		# r/whatisthissnake does not like it when people kill snakes
 		if submission.link_flair_text == "Dead, Injured or Roadkilled Snake":
-			submission.reply("This automatic message accompanies any image of a dead, injured or roadkilled snake: " + "\n\n" +
-			                 "Please don't kill snakes - they are a natural part of the ecosystem and [even species that "
-			                 "use venom for prey acquisition and defense are beneficial to humans]"
-			                 "(https://web.archive.org/web/20180802190346/https://umdrightnow.umd.edu/news/timber-rattlesnakes-vs-lyme-disease). One cannot expect "
-			                 "outside to be sterile - if you see a snake you're in or around their preferred habitat. "
-			                 "Most snakes are valued and as such are protected from collection, killing or harassment "
-			                 "as non-game animals at the state level.\n\n[Neighborhood dogs]"
-			                 "(http://livingalongsidewildlife.com/?p=3141) "
-			                 "are more likely to harm people. Professional snake relocation services are often free or "
-			                 "inexpensive, but snakes often die trying to return to their original home range, so it is "
-			                 "usually best to enjoy them like you would songbirds or any of the other amazing wildlife "
-			                 "native to your area. Commercial snake repellents are not effective - to discourage snakes, "
-			                 "eliminate sources of food and cover; clear debris, stacked wood and eliminate rodent "
-			                 "populations. Seal up cracks in and around the foundation/base of your home." + "\n\n" + sig)
-			print("Replied to Dead Snake flair - " + submission.id)
+			submission.reply(f"This automatic message accompanies any image of a dead, injured or roadkilled snake: \n\n"
+			                 f"Please don't kill snakes - they are a natural part of the ecosystem and [even species that "
+			                 f"use venom for prey acquisition and defense are beneficial to humans]"
+			                 f"(https://web.archive.org/web/20180802190346/https://umdrightnow.umd.edu/news/timber-rattlesnakes-vs-lyme-disease). One cannot expect "
+			                 f"outside to be sterile - if you see a snake you're in or around their preferred habitat. "
+			                 f"Most snakes are valued and as such are protected from collection, killing or harassment "
+			                 f"as non-game animals at the state level.\n\n[Neighborhood dogs]"
+			                 f"(http://livingalongsidewildlife.com/?p=3141) "
+			                 f"are more likely to harm people. Professional snake relocation services are often free or "
+			                 f"inexpensive, but snakes often die trying to return to their original home range, so it is "
+			                 f"usually best to enjoy them like you would songbirds or any of the other amazing wildlife "
+			                 f"native to your area. Commercial snake repellents are not effective - to discourage snakes, "
+			                 f"eliminate sources of food and cover; clear debris, stacked wood and eliminate rodent "
+			                 f"populations. Seal up cracks in and around the foundation/base of your home.\n\n{sig}")
+			print(f"Replied to Dead Snake flair - {submission.id}")
 
 		submission.save()
 		
@@ -156,8 +155,13 @@ def subreddit_post_rules(r):
 			break
 
 		if submission.link_flair_text == "Herpetoculture":
-			submission.reply("Herpetology is the study of reptiles and amphibians. This post has been marked by the original poster as herpetoculture, which is the keeping of reptiles and amphibians in captivity. Herpetoculture posts are not suitable for /r/Herpetology and your post will be removed shortly. There are many suitable locations to post a pet or ask for pet care help, including /r/Herpetoculture and /r/Reptiles" + "\n\n" + "If you applied this flair in error, for example to a photo of an animal in the wild, please clear it." + "\n\n" + sig)
-			print("Replied to Herpetoculture flair - " + submission.id)
+			submission.reply(f"Herpetology is the study of reptiles and amphibians. This post has been marked by the "
+                    		 f"original poster as herpetoculture, which is the keeping of reptiles and amphibians in "
+                       		 f"captivity. Herpetoculture posts are not suitable for /r/Herpetology and your post will "
+                          	 f"be removed shortly. There are many suitable locations to post a pet or ask for pet care help, "
+                             f"including /r/Herpetoculture and /r/Reptiles\n\nIf you applied this flair in error, for example "
+                             f"to a photo of an animal in the wild, please clear it.\n\n{sig}")
+			print(f"Replied to Herpetoculture flair - {submission.id}")
 
 		submission.save()
 	print("Subreddit-specific rules check complete.")
@@ -188,7 +192,7 @@ while True:
 		print("Hit an error in main loop")
 		print(traceback.format_exc())
 
-	print("Sleeping for " + str(config.sleep_time) + " seconds...")
+	print(f"Sleeping for {str(config.sleep_time)} seconds...")
 	time.sleep(config.sleep_time)
 	
 	i += 1
