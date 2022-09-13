@@ -67,7 +67,7 @@ def checkComment(comment):
  
 	with thread_lock:
 		for species in specieslist:
-			if f"*{species}*" in comment.body:
+			if f"*{species}*".lower() in comment.body.lower():
 				print(f"String with {species} found in comment {comment.id}")
 				with open(f"species/{species}.md", "r") as f:
 					comment_reply = f.read()
@@ -75,25 +75,34 @@ def checkComment(comment):
 					print(f"Replied to comment {comment.id}")
 
 		for command in commands:
-			if "!" + command in comment.body:
+			if f"!{command}".lower() in comment.body.lower():
 				with open(f"commands/{command}.md", "r") as f:
 					comment_reply = f.read()
 					bldr.append(comment_reply)
 				print(f"!{command} found in comment {comment.id}")
-		if "!account" in comment.body:
-			account = comment.body.strip().replace("!account ", "").capitalize()
-			print("Account URL requested for " + account)
-			if os.path.exists("species/" + account + ".md"):
-				url = f"https://github.com/enmaku/SpeciesBot/edit/main/species/{urllib.parse.quote(account)}.md"
-				bldr.append(f"It looks like an account for that species already exists.\n\n[Click Here]({url}) to edit it.")
+		if "!contribute" in comment.body.lower():
+			account = comment.body.lower().replace("!contribute", "").strip().capitalize()
+			if account:
+				print("Contribution URL requested for " + account)
+				if os.path.exists("species/" + account + ".md"):
+					url = f"https://github.com/enmaku/SpeciesBot/edit/main/species/{urllib.parse.quote(account)}.md"
+					bldr.append(f"It looks like a record for that species already exists.\n\n[Click Here]({url}) to edit it.")
+				else:
+					url = f"https://github.com/enmaku/SpeciesBot/new/main?filename=species/{urllib.parse.quote(account)}.md"
+					bldr.append(f"A record for that species does not appear to exist.\n\n[Click Here]({url}) to create it.")
 			else:
-				url = f"https://github.com/enmaku/SpeciesBot/new/main?filename=species/{urllib.parse.quote(account)}.md"
-				bldr.append(f"A record for that species does not appear to exist.\n\n[Click Here]({url}) to create it.")
-			bldr.append("\n\nPlease note that you may need to create a (free) GitHub account in order to finalize your submission.")
+				bldr.append("Thanks for your interest in contributing to the project!\n\n"
+                			"Our code is currently hosted on [GitHub](https://github.com/enmaku/SpeciesBot) along with "
+                   			"all our species records and commands. If you're already familiar with GitHub please feel free "
+							"to contribute as appropriate.\n\n"
+       						"If you're not familiar with GitHub, don't worry! Just type \"!contribute Genus species\" "
+             				"anywhere this bot is listening and we'll respond with a clickable link to create or edit "
+                 			"a species record as appropriate.")
+			bldr.append("\n\nPlease note that you may need to create a (free) GitHub account in order to submit your contribution.")
 		if len(bldr): 
+			comment.save()
 			bldr.append(sig) 
 			comment.reply(body="\n\n--------------------------------------------------------\n\n".join(bldr))
-		comment.save()
 
 def reliable_responders(r):
     # Check reliable responder comments
