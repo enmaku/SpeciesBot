@@ -7,30 +7,46 @@ import re
 import traceback
 from datetime import datetime
 import threading
+import timeit
+
 thread_lock = threading.Lock()
 
 startTime = datetime.utcnow()
 
 list_of_names = []
-with open("reliable.txt", "r") as f:
-    list_of_names = f.read().splitlines()
-
 subreddits = ""
-with open("subreddits.txt", "r") as f:
-    subreddits = "+".join(f.read().splitlines())
-
-with open("signature.md", "r") as f:
-    sig = f.read()
-
+sig = ""
 commands = []
-for filename in os.listdir("commands"):
-	with open(os.path.join("commands", filename), "r") as f:
-		commandtext = f.read()
-		commands.append(Path(filename).stem)
-
 specieslist = []
-for filename in os.listdir("species"):
-    specieslist.append(Path(filename).stem)
+
+def load_data():
+	global list_of_names, subreddits, sig, commands, specieslist
+ 
+	list_of_names = []
+	subreddits = ""
+	sig = ""
+	commands = []
+	specieslist = []
+
+	with open("reliable.txt", "r") as f:
+		list_of_names = f.read().splitlines()
+
+	with open("subreddits.txt", "r") as f:
+		subreddits = "+".join(f.read().splitlines())
+
+	with open("signature.md", "r") as f:
+		sig = f.read()
+
+	for filename in os.listdir("commands"):
+		with open(os.path.join("commands", filename), "r") as f:
+			commandtext = f.read()
+			commands.append(Path(filename).stem)
+
+	for filename in os.listdir("species"):
+		specieslist.append(Path(filename).stem)
+    
+print("Loading data from files")
+load_data()
 
 def bot_login():
 	print("Logging in...")
@@ -154,6 +170,7 @@ def run_bot(r):
 
 r = bot_login()
 
+i = 0
 while True:
 	try:
 		run_bot(r)
@@ -161,5 +178,11 @@ while True:
 		print("Hit an error in main loop")
 		print(traceback.format_exc())
 
-	print("Sleeping for 30 seconds...")
-	time.sleep(30)
+	print("Sleeping for " + str(config.sleep_time) + " seconds...")
+	time.sleep(config.sleep_time)
+	
+	i += 1
+	if i == config.reload_every:
+		print("Reloading bot data...")
+		load_data()
+		i = 0

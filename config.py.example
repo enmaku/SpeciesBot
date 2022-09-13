@@ -5,3 +5,5 @@ client_secret = "SECRET CLIENT CODE FROM REDDIT"
 reliable_responders = True
 subreddit_comments = True
 subreddit_rules = True
+reload_every = 5
+sleep_time = 30
