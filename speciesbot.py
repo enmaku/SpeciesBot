@@ -149,9 +149,7 @@ def run_bot(r):
 		thread.start()
 	for thread in threads:
 		thread.join()
-
-# subreddits = "speciesbot_testing"
-# list_of_names = ["modestmenagerie", "enmaku"]
+  
 
 r = bot_login()
 
