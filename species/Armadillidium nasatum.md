@@ -5,3 +5,5 @@ Armadillidium nasatum can reach lengths of up to 21mm (0.8in). Though similar in
 Armadillidium nasatum occurs in patches in southern England, with concentrated areas in its range and sporadic occurrences in Ireland. It lives in dryer areas than most woodlice, is [synanthropic](https://en.wikipedia.org/wiki/Synanthrope), and is frequently found in non-inhabited areas such as railway lines and industrial waste ground. Like other woodlice, it is found under stones and wood.
 
 While most Armadillidium nasatum are gray in color, variant colors such as peach and pearn have found popularity in the pet trade.
+
+This account was prepared by /u/ModestMenagerie

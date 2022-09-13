@@ -7,3 +7,5 @@ Blaptica dubia are ovovivaporous, with the female giving live birth to 20-40 nym
 Dubia roaches are frugivores and will preferentially seek grain and fruit-based sources of food, though protein-rich foods may be consumed if offered. 
 
 In Canada and some U.S. States, Dubia roaches are considered a harmful invasive species and as such importation by the general public may be banned or illegal.
+
+This account was prepared by /u/ModestMenagerie

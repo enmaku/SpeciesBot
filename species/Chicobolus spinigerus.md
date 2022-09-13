@@ -5,3 +5,5 @@ Males tend to be smaller than females, measuring 40-85mm (1.6-3.3in) while femal
 Because they are easy to provide optimal habitat conditions for, breed readily, live socially, and grow to a good size, ivory millipedes are common in the exotic pet trade, and most offered for sale are thus captive bred individuals from private collections.
 
 Like most millipedes, Chicobolus spinigerus are detritivores and primarily susbsist on rotting wood and leaf litter. Although this species (and millipedes in general) are considered harmless, they may be toxic if consumed and can excrete toxic substances when alarmed. Always supervise young children to prevent accidental ingestion, and be sure to wash your hands after handling any millipede.
+
+This account was prepared by /u/ModestMenagerie

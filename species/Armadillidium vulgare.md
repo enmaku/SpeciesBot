@@ -3,3 +3,5 @@ Armadillidium vulgare, the common pill-bug, potato bug, common pill woodlouse, r
 Because of their unusual yet non-threatening appearance, some Armadillidium vulgare are kept as pets in areas throughout the world. Different lineages are bred, usually in regards to color, in order to provide stock to hobbyists. One supposed variation, "Punta Cana," is often referred to as Armadillidium sordidum, while others insist it is a variety of A. vulgare. Keeping isopods as pets requires a moist habitat with limited light and abundant decaying botanical matter. They can live for up to three years. Among non-hobbyist adults, they are often seen as unwanted (but essentially harmless) home pests.
 
 Armadillidum vulgare is native to the shores of the Mediterranean, but have been introduced to nearly every land mass, with particularly dense populations in temperate climates.
+
+This account was prepared by /u/ModestMenagerie

@@ -9,3 +9,5 @@ E. tiaratum typically reproduce sexually, producing eggs which hatch after appro
 Spectres are herbivores, and their food of choice is Eucalyptus leaves, although breeders abroad have fed a wide variety of plant matter with great success. Known-good food items include bayberry, bramble, hawthorn, hazel, oak, photinia, raspberry, rose, salmon berry, and guava.
 
 This species is commonly kept by hobbyists, schools, and researchers, and eggs can be obtained quite readily from a number of sources. Keeping phasmids is, however, outlawed or banned in many jurisdictions and you should always check the appropriate laws before attempting to purchase, import, or export them.
+
+This account was prepared by /u/ModestMenagerie
