@@ -177,13 +177,19 @@ def subreddit_post_rules(r):
     
     
 def run_bot(r):	
+	threads = []
 	if config.reliable_responders:
-		reliable_responders(r)
+		threads.append(threading.Thread(target=reliable_responders, args=(r,)))
 	if config.subreddit_comments:
-		subreddit_comments(r)
+		threads.append(threading.Thread(target=subreddit_comments, args=(r,)))
 	if config.subreddit_rules:
-		subreddit_post_rules(r)
+		threads.append(threading.Thread(target=subreddit_post_rules, args=(r,)))
   
+	for thread in threads:
+		thread.start()
+	for thread in threads:
+		thread.join()
+
 
 r = bot_login()
 
